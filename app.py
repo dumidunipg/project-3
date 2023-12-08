@@ -1,5 +1,5 @@
 # Import the dependencies.
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify
 from flask_pymongo import PyMongo
 
 # Create an app, being sure to pass __name__
@@ -30,8 +30,10 @@ def get_data_co2():
     data = list(mongo.db.co2_emission.find({}, {'_id': 0}))
     return jsonify(data)
 
-@app.route('/route_1')
-def index():
-    return render_template('route1.html')
+@app.route('/api/data/aqi', methods=['GET'])
+def get_data_aqi():
+    data = list(mongo.db.aqi.find({}, {'_id': 0}))
+    return jsonify(data)
+
 if __name__ == "__main__":
     app.run(debug=True)

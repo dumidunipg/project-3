@@ -1,4 +1,4 @@
-_id,  Yr, Mn,    Date Excel,      Date,     CO2 [ppm],seasonally adjusted [ppm]. ,fit [ppm],  seasonally adjusted fit [ppm], CO2 filled [ppm], seasonally adjusted filled  [ppm], Sta
+_id,Yr,Mn,Date Excel,Date,CO2 [ppm],seasonally adjusted [ppm].,fit [ppm],seasonally adjusted fit [ppm], CO2 filled [ppm], seasonally adjusted filled  [ppm], Sta
 656ff6983f96ad5aaf969143,1958,1,21200,1958.0411,-99.99,-99.99,-99.99,-99.99,-99.99,-99.99, MLO
 656ff6983f96ad5aaf969144,1958,2,21231,1958.126,-99.99,-99.99,-99.99,-99.99,-99.99,-99.99, MLO
 656ff6983f96ad5aaf969145,1958,3,21259,1958.2027,315.71,314.44,316.19,314.91,315.71,314.44, MLO

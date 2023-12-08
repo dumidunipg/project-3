@@ -1,0 +1,6211 @@
+[
+  {
+    "ANOM": -1.62,
+    "ClimAdjust": 26.18,
+    "MON": 1,
+    "TOTAL": 24.56,
+    "YR": 1950
+  },
+  {
+    "ANOM": -1.32,
+    "ClimAdjust": 26.39,
+    "MON": 2,
+    "TOTAL": 25.07,
+    "YR": 1950
+  },
+  {
+    "ANOM": -1.07,
+    "ClimAdjust": 26.95,
+    "MON": 3,
+    "TOTAL": 25.88,
+    "YR": 1950
+  },
+  {
+    "ANOM": -1.11,
+    "ClimAdjust": 27.39,
+    "MON": 4,
+    "TOTAL": 26.29,
+    "YR": 1950
+  },
+  {
+    "ANOM": -1.37,
+    "ClimAdjust": 27.56,
+    "MON": 5,
+    "TOTAL": 26.19,
+    "YR": 1950
+  },
+  {
+    "ANOM": -0.74,
+    "ClimAdjust": 27.21,
+    "MON": 6,
+    "TOTAL": 26.47,
+    "YR": 1950
+  },
+  {
+    "ANOM": -0.44,
+    "ClimAdjust": 26.72,
+    "MON": 7,
+    "TOTAL": 26.28,
+    "YR": 1950
+  },
+  {
+    "ANOM": -0.42,
+    "ClimAdjust": 26.3,
+    "MON": 8,
+    "TOTAL": 25.88,
+    "YR": 1950
+  },
+  {
+    "ANOM": -0.41,
+    "ClimAdjust": 26.14,
+    "MON": 9,
+    "TOTAL": 25.73,
+    "YR": 1950
+  },
+  {
+    "ANOM": -0.32,
+    "ClimAdjust": 26.01,
+    "MON": 10,
+    "TOTAL": 25.68,
+    "YR": 1950
+  },
+  {
+    "ANOM": -0.6,
+    "ClimAdjust": 26.06,
+    "MON": 11,
+    "TOTAL": 25.46,
+    "YR": 1950
+  },
+  {
+    "ANOM": -0.88,
+    "ClimAdjust": 26.18,
+    "MON": 12,
+    "TOTAL": 25.29,
+    "YR": 1950
+  },
+  {
+    "ANOM": -0.92,
+    "ClimAdjust": 26.18,
+    "MON": 1,
+    "TOTAL": 25.26,
+    "YR": 1951
+  },
+  {
+    "ANOM": -0.66,
+    "ClimAdjust": 26.39,
+    "MON": 2,
+    "TOTAL": 25.72,
+    "YR": 1951
+  },
+  {
+    "ANOM": -0.04,
+    "ClimAdjust": 26.95,
+    "MON": 3,
+    "TOTAL": 26.91,
+    "YR": 1951
+  },
+  {
+    "ANOM": 0.2,
+    "ClimAdjust": 27.39,
+    "MON": 4,
+    "TOTAL": 27.59,
+    "YR": 1951
+  },
+  {
+    "ANOM": 0.37,
+    "ClimAdjust": 27.56,
+    "MON": 5,
+    "TOTAL": 27.93,
+    "YR": 1951
+  },
+  {
+    "ANOM": 0.52,
+    "ClimAdjust": 27.21,
+    "MON": 6,
+    "TOTAL": 27.73,
+    "YR": 1951
+  },
+  {
+    "ANOM": 0.87,
+    "ClimAdjust": 26.72,
+    "MON": 7,
+    "TOTAL": 27.59,
+    "YR": 1951
+  },
+  {
+    "ANOM": 0.71,
+    "ClimAdjust": 26.3,
+    "MON": 8,
+    "TOTAL": 27.01,
+    "YR": 1951
+  },
+  {
+    "ANOM": 1.08,
+    "ClimAdjust": 26.14,
+    "MON": 9,
+    "TOTAL": 27.22,
+    "YR": 1951
+  },
+  {
+    "ANOM": 1.19,
+    "ClimAdjust": 26.01,
+    "MON": 10,
+    "TOTAL": 27.2,
+    "YR": 1951
+  },
+  {
+    "ANOM": 1.19,
+    "ClimAdjust": 26.06,
+    "MON": 11,
+    "TOTAL": 27.25,
+    "YR": 1951
+  },
+  {
+    "ANOM": 0.74,
+    "ClimAdjust": 26.18,
+    "MON": 12,
+    "TOTAL": 26.92,
+    "YR": 1951
+  },
+  {
+    "ANOM": 0.49,
+    "ClimAdjust": 26.18,
+    "MON": 1,
+    "TOTAL": 26.67,
+    "YR": 1952
+  },
+  {
+    "ANOM": 0.37,
+    "ClimAdjust": 26.39,
+    "MON": 2,
+    "TOTAL": 26.75,
+    "YR": 1952
+  },
+  {
+    "ANOM": 0.24,
+    "ClimAdjust": 26.95,
+    "MON": 3,
+    "TOTAL": 27.19,
+    "YR": 1952
+  },
+  {
+    "ANOM": 0.42,
+    "ClimAdjust": 27.39,
+    "MON": 4,
+    "TOTAL": 27.81,
+    "YR": 1952
+  },
+  {
+    "ANOM": 0.23,
+    "ClimAdjust": 27.56,
+    "MON": 5,
+    "TOTAL": 27.79,
+    "YR": 1952
+  },
+  {
+    "ANOM": -0.03,
+    "ClimAdjust": 27.21,
+    "MON": 6,
+    "TOTAL": 27.18,
+    "YR": 1952
+  },
+  {
+    "ANOM": -0.2,
+    "ClimAdjust": 26.72,
+    "MON": 7,
+    "TOTAL": 26.52,
+    "YR": 1952
+  },
+  {
+    "ANOM": -0.0,
+    "ClimAdjust": 26.3,
+    "MON": 8,
+    "TOTAL": 26.3,
+    "YR": 1952
+  },
+  {
+    "ANOM": 0.21,
+    "ClimAdjust": 26.14,
+    "MON": 9,
+    "TOTAL": 26.35,
+    "YR": 1952
+  },
+  {
+    "ANOM": 0.25,
+    "ClimAdjust": 26.01,
+    "MON": 10,
+    "TOTAL": 26.25,
+    "YR": 1952
+  },
+  {
+    "ANOM": -0.14,
+    "ClimAdjust": 26.06,
+    "MON": 11,
+    "TOTAL": 25.92,
+    "YR": 1952
+  },
+  {
+    "ANOM": 0.03,
+    "ClimAdjust": 26.18,
+    "MON": 12,
+    "TOTAL": 26.21,
+    "YR": 1952
+  },
+  {
+    "ANOM": 0.56,
+    "ClimAdjust": 26.18,
+    "MON": 1,
+    "TOTAL": 26.74,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.61,
+    "ClimAdjust": 26.39,
+    "MON": 2,
+    "TOTAL": 27.0,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.62,
+    "ClimAdjust": 26.95,
+    "MON": 3,
+    "TOTAL": 27.57,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.64,
+    "ClimAdjust": 27.39,
+    "MON": 4,
+    "TOTAL": 28.03,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.71,
+    "ClimAdjust": 27.56,
+    "MON": 5,
+    "TOTAL": 28.28,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.9,
+    "ClimAdjust": 27.21,
+    "MON": 6,
+    "TOTAL": 28.12,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.7,
+    "ClimAdjust": 26.72,
+    "MON": 7,
+    "TOTAL": 27.42,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.63,
+    "ClimAdjust": 26.3,
+    "MON": 8,
+    "TOTAL": 26.93,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.85,
+    "ClimAdjust": 26.14,
+    "MON": 9,
+    "TOTAL": 27.0,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.86,
+    "ClimAdjust": 26.01,
+    "MON": 10,
+    "TOTAL": 26.87,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.82,
+    "ClimAdjust": 26.06,
+    "MON": 11,
+    "TOTAL": 26.88,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.83,
+    "ClimAdjust": 26.18,
+    "MON": 12,
+    "TOTAL": 27.01,
+    "YR": 1953
+  },
+  {
+    "ANOM": 0.8,
+    "ClimAdjust": 26.18,
+    "MON": 1,
+    "TOTAL": 26.98,
+    "YR": 1954
+  },
+  {
+    "ANOM": 0.64,
+    "ClimAdjust": 26.39,
+    "MON": 2,
+    "TOTAL": 27.03,
+    "YR": 1954
+  },
+  {
+    "ANOM": -0.04,
+    "ClimAdjust": 26.95,
+    "MON": 3,
+    "TOTAL": 26.91,
+    "YR": 1954
+  },
+  {
+    "ANOM": -0.74,
+    "ClimAdjust": 27.39,
+    "MON": 4,
+    "TOTAL": 26.65,
+    "YR": 1954
+  },
+  {
+    "ANOM": -0.45,
+    "ClimAdjust": 27.56,
+    "MON": 5,
+    "TOTAL": 27.11,
+    "YR": 1954
+  },
+  {
+    "ANOM": -0.42,
+    "ClimAdjust": 27.21,
+    "MON": 6,
+    "TOTAL": 26.79,
+    "YR": 1954
+  },
+  {
+    "ANOM": -0.62,
+    "ClimAdjust": 26.72,
+    "MON": 7,
+    "TOTAL": 26.1,
+    "YR": 1954
+  },
+  {
+    "ANOM": -0.88,
+    "ClimAdjust": 26.3,
+    "MON": 8,
+    "TOTAL": 25.42,
+    "YR": 1954
+  },
+  {
+    "ANOM": -1.03,
+    "ClimAdjust": 26.14,
+    "MON": 9,
+    "TOTAL": 25.11,
+    "YR": 1954
+  },
+  {
+    "ANOM": -0.78,
+    "ClimAdjust": 26.01,
+    "MON": 10,
+    "TOTAL": 25.22,
+    "YR": 1954
+  },
+  {
+    "ANOM": -0.5,
+    "ClimAdjust": 26.06,
+    "MON": 11,
+    "TOTAL": 25.56,
+    "YR": 1954
+  },
+  {
+    "ANOM": -0.91,
+    "ClimAdjust": 26.18,
+    "MON": 12,
+    "TOTAL": 25.26,
+    "YR": 1954
+  },
+  {
+    "ANOM": -0.56,
+    "ClimAdjust": 26.18,
+    "MON": 1,
+    "TOTAL": 25.62,
+    "YR": 1955
+  },
+  {
+    "ANOM": -0.57,
+    "ClimAdjust": 26.39,
+    "MON": 2,
+    "TOTAL": 25.82,
+    "YR": 1955
+  },
+  {
+    "ANOM": -0.72,
+    "ClimAdjust": 26.95,
+    "MON": 3,
+    "TOTAL": 26.23,
+    "YR": 1955
+  },
+  {
+    "ANOM": -0.78,
+    "ClimAdjust": 27.39,
+    "MON": 4,
+    "TOTAL": 26.61,
+    "YR": 1955
+  },
+  {
+    "ANOM": -0.91,
+    "ClimAdjust": 27.56,
+    "MON": 5,
+    "TOTAL": 26.65,
+    "YR": 1955
+  },
+  {
+    "ANOM": -0.67,
+    "ClimAdjust": 27.21,
+    "MON": 6,
+    "TOTAL": 26.54,
+    "YR": 1955
+  },
+  {
+    "ANOM": -0.58,
+    "ClimAdjust": 26.72,
+    "MON": 7,
+    "TOTAL": 26.14,
+    "YR": 1955
+  },
+  {
+    "ANOM": -0.8,
+    "ClimAdjust": 26.3,
+    "MON": 8,
+    "TOTAL": 25.5,
+    "YR": 1955
+  },
+  {
+    "ANOM": -0.87,
+    "ClimAdjust": 26.14,
+    "MON": 9,
+    "TOTAL": 25.28,
+    "YR": 1955
+  },
+  {
+    "ANOM": -1.6,
+    "ClimAdjust": 26.01,
+    "MON": 10,
+    "TOTAL": 24.41,
+    "YR": 1955
+  },
+  {
+    "ANOM": -1.81,
+    "ClimAdjust": 26.06,
+    "MON": 11,
+    "TOTAL": 24.25,
+    "YR": 1955
+  },
+  {
+    "ANOM": -1.61,
+    "ClimAdjust": 26.18,
+    "MON": 12,
+    "TOTAL": 24.57,
+    "YR": 1955
+  },
+  {
+    "ANOM": -0.99,
+    "ClimAdjust": 26.33,
+    "MON": 1,
+    "TOTAL": 25.34,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.74,
+    "ClimAdjust": 26.51,
+    "MON": 2,
+    "TOTAL": 25.77,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.54,
+    "ClimAdjust": 27.01,
+    "MON": 3,
+    "TOTAL": 26.47,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.6,
+    "ClimAdjust": 27.46,
+    "MON": 4,
+    "TOTAL": 26.86,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.46,
+    "ClimAdjust": 27.59,
+    "MON": 5,
+    "TOTAL": 27.13,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.48,
+    "ClimAdjust": 27.29,
+    "MON": 6,
+    "TOTAL": 26.81,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.58,
+    "ClimAdjust": 26.8,
+    "MON": 7,
+    "TOTAL": 26.22,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.65,
+    "ClimAdjust": 26.32,
+    "MON": 8,
+    "TOTAL": 25.67,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.43,
+    "ClimAdjust": 26.15,
+    "MON": 9,
+    "TOTAL": 25.72,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.29,
+    "ClimAdjust": 26.03,
+    "MON": 10,
+    "TOTAL": 25.74,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.54,
+    "ClimAdjust": 26.1,
+    "MON": 11,
+    "TOTAL": 25.56,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.47,
+    "ClimAdjust": 26.18,
+    "MON": 12,
+    "TOTAL": 25.71,
+    "YR": 1956
+  },
+  {
+    "ANOM": -0.29,
+    "ClimAdjust": 26.33,
+    "MON": 1,
+    "TOTAL": 26.04,
+    "YR": 1957
+  },
+  {
+    "ANOM": 0.02,
+    "ClimAdjust": 26.51,
+    "MON": 2,
+    "TOTAL": 26.54,
+    "YR": 1957
+  },
+  {
+    "ANOM": 0.45,
+    "ClimAdjust": 27.01,
+    "MON": 3,
+    "TOTAL": 27.46,
+    "YR": 1957
+  },
+  {
+    "ANOM": 0.77,
+    "ClimAdjust": 27.46,
+    "MON": 4,
+    "TOTAL": 28.23,
+    "YR": 1957
+  },
+  {
+    "ANOM": 0.94,
+    "ClimAdjust": 27.59,
+    "MON": 5,
+    "TOTAL": 28.54,
+    "YR": 1957
+  },
+  {
+    "ANOM": 1.05,
+    "ClimAdjust": 27.29,
+    "MON": 6,
+    "TOTAL": 28.35,
+    "YR": 1957
+  },
+  {
+    "ANOM": 1.34,
+    "ClimAdjust": 26.8,
+    "MON": 7,
+    "TOTAL": 28.15,
+    "YR": 1957
+  },
+  {
+    "ANOM": 1.36,
+    "ClimAdjust": 26.32,
+    "MON": 8,
+    "TOTAL": 27.68,
+    "YR": 1957
+  },
+  {
+    "ANOM": 1.27,
+    "ClimAdjust": 26.15,
+    "MON": 9,
+    "TOTAL": 27.42,
+    "YR": 1957
+  },
+  {
+    "ANOM": 1.37,
+    "ClimAdjust": 26.03,
+    "MON": 10,
+    "TOTAL": 27.41,
+    "YR": 1957
+  },
+  {
+    "ANOM": 1.52,
+    "ClimAdjust": 26.1,
+    "MON": 11,
+    "TOTAL": 27.62,
+    "YR": 1957
+  },
+  {
+    "ANOM": 1.71,
+    "ClimAdjust": 26.18,
+    "MON": 12,
+    "TOTAL": 27.89,
+    "YR": 1957
+  },
+  {
+    "ANOM": 1.98,
+    "ClimAdjust": 26.33,
+    "MON": 1,
+    "TOTAL": 28.32,
+    "YR": 1958
+  },
+  {
+    "ANOM": 1.72,
+    "ClimAdjust": 26.51,
+    "MON": 2,
+    "TOTAL": 28.24,
+    "YR": 1958
+  },
+  {
+    "ANOM": 1.26,
+    "ClimAdjust": 27.01,
+    "MON": 3,
+    "TOTAL": 28.27,
+    "YR": 1958
+  },
+  {
+    "ANOM": 0.81,
+    "ClimAdjust": 27.46,
+    "MON": 4,
+    "TOTAL": 28.28,
+    "YR": 1958
+  },
+  {
+    "ANOM": 0.71,
+    "ClimAdjust": 27.59,
+    "MON": 5,
+    "TOTAL": 28.3,
+    "YR": 1958
+  },
+  {
+    "ANOM": 0.69,
+    "ClimAdjust": 27.29,
+    "MON": 6,
+    "TOTAL": 27.98,
+    "YR": 1958
+  },
+  {
+    "ANOM": 0.51,
+    "ClimAdjust": 26.8,
+    "MON": 7,
+    "TOTAL": 27.31,
+    "YR": 1958
+  },
+  {
+    "ANOM": 0.52,
+    "ClimAdjust": 26.32,
+    "MON": 8,
+    "TOTAL": 26.84,
+    "YR": 1958
+  },
+  {
+    "ANOM": 0.25,
+    "ClimAdjust": 26.15,
+    "MON": 9,
+    "TOTAL": 26.4,
+    "YR": 1958
+  },
+  {
+    "ANOM": 0.41,
+    "ClimAdjust": 26.03,
+    "MON": 10,
+    "TOTAL": 26.45,
+    "YR": 1958
+  },
+  {
+    "ANOM": 0.65,
+    "ClimAdjust": 26.1,
+    "MON": 11,
+    "TOTAL": 26.75,
+    "YR": 1958
+  },
+  {
+    "ANOM": 0.44,
+    "ClimAdjust": 26.18,
+    "MON": 12,
+    "TOTAL": 26.61,
+    "YR": 1958
+  },
+  {
+    "ANOM": 0.74,
+    "ClimAdjust": 26.33,
+    "MON": 1,
+    "TOTAL": 27.07,
+    "YR": 1959
+  },
+  {
+    "ANOM": 0.67,
+    "ClimAdjust": 26.51,
+    "MON": 2,
+    "TOTAL": 27.18,
+    "YR": 1959
+  },
+  {
+    "ANOM": 0.46,
+    "ClimAdjust": 27.01,
+    "MON": 3,
+    "TOTAL": 27.47,
+    "YR": 1959
+  },
+  {
+    "ANOM": 0.42,
+    "ClimAdjust": 27.46,
+    "MON": 4,
+    "TOTAL": 27.88,
+    "YR": 1959
+  },
+  {
+    "ANOM": 0.1,
+    "ClimAdjust": 27.59,
+    "MON": 5,
+    "TOTAL": 27.69,
+    "YR": 1959
+  },
+  {
+    "ANOM": 0.07,
+    "ClimAdjust": 27.29,
+    "MON": 6,
+    "TOTAL": 27.36,
+    "YR": 1959
+  },
+  {
+    "ANOM": -0.37,
+    "ClimAdjust": 26.8,
+    "MON": 7,
+    "TOTAL": 26.43,
+    "YR": 1959
+  },
+  {
+    "ANOM": -0.24,
+    "ClimAdjust": 26.32,
+    "MON": 8,
+    "TOTAL": 26.09,
+    "YR": 1959
+  },
+  {
+    "ANOM": -0.23,
+    "ClimAdjust": 26.15,
+    "MON": 9,
+    "TOTAL": 25.92,
+    "YR": 1959
+  },
+  {
+    "ANOM": 0.2,
+    "ClimAdjust": 26.03,
+    "MON": 10,
+    "TOTAL": 26.24,
+    "YR": 1959
+  },
+  {
+    "ANOM": -0.06,
+    "ClimAdjust": 26.1,
+    "MON": 11,
+    "TOTAL": 26.04,
+    "YR": 1959
+  },
+  {
+    "ANOM": 0.0,
+    "ClimAdjust": 26.18,
+    "MON": 12,
+    "TOTAL": 26.18,
+    "YR": 1959
+  },
+  {
+    "ANOM": -0.07,
+    "ClimAdjust": 26.33,
+    "MON": 1,
+    "TOTAL": 26.26,
+    "YR": 1960
+  },
+  {
+    "ANOM": -0.22,
+    "ClimAdjust": 26.51,
+    "MON": 2,
+    "TOTAL": 26.29,
+    "YR": 1960
+  },
+  {
+    "ANOM": -0.02,
+    "ClimAdjust": 27.01,
+    "MON": 3,
+    "TOTAL": 26.99,
+    "YR": 1960
+  },
+  {
+    "ANOM": 0.03,
+    "ClimAdjust": 27.46,
+    "MON": 4,
+    "TOTAL": 27.49,
+    "YR": 1960
+  },
+  {
+    "ANOM": 0.08,
+    "ClimAdjust": 27.59,
+    "MON": 5,
+    "TOTAL": 27.68,
+    "YR": 1960
+  },
+  {
+    "ANOM": -0.06,
+    "ClimAdjust": 27.29,
+    "MON": 6,
+    "TOTAL": 27.23,
+    "YR": 1960
+  },
+  {
+    "ANOM": 0.07,
+    "ClimAdjust": 26.8,
+    "MON": 7,
+    "TOTAL": 26.87,
+    "YR": 1960
+  },
+  {
+    "ANOM": 0.36,
+    "ClimAdjust": 26.32,
+    "MON": 8,
+    "TOTAL": 26.69,
+    "YR": 1960
+  },
+  {
+    "ANOM": 0.28,
+    "ClimAdjust": 26.15,
+    "MON": 9,
+    "TOTAL": 26.43,
+    "YR": 1960
+  },
+  {
+    "ANOM": 0.18,
+    "ClimAdjust": 26.03,
+    "MON": 10,
+    "TOTAL": 26.21,
+    "YR": 1960
+  },
+  {
+    "ANOM": 0.15,
+    "ClimAdjust": 26.1,
+    "MON": 11,
+    "TOTAL": 26.25,
+    "YR": 1960
+  },
+  {
+    "ANOM": 0.04,
+    "ClimAdjust": 26.18,
+    "MON": 12,
+    "TOTAL": 26.22,
+    "YR": 1960
+  },
+  {
+    "ANOM": -0.04,
+    "ClimAdjust": 26.27,
+    "MON": 1,
+    "TOTAL": 26.23,
+    "YR": 1961
+  },
+  {
+    "ANOM": 0.1,
+    "ClimAdjust": 26.45,
+    "MON": 2,
+    "TOTAL": 26.56,
+    "YR": 1961
+  },
+  {
+    "ANOM": 0.02,
+    "ClimAdjust": 26.92,
+    "MON": 3,
+    "TOTAL": 26.94,
+    "YR": 1961
+  },
+  {
+    "ANOM": -0.0,
+    "ClimAdjust": 27.37,
+    "MON": 4,
+    "TOTAL": 27.37,
+    "YR": 1961
+  },
+  {
+    "ANOM": 0.26,
+    "ClimAdjust": 27.49,
+    "MON": 5,
+    "TOTAL": 27.75,
+    "YR": 1961
+  },
+  {
+    "ANOM": 0.44,
+    "ClimAdjust": 27.22,
+    "MON": 6,
+    "TOTAL": 27.66,
+    "YR": 1961
+  },
+  {
+    "ANOM": 0.11,
+    "ClimAdjust": 26.76,
+    "MON": 7,
+    "TOTAL": 26.87,
+    "YR": 1961
+  },
+  {
+    "ANOM": -0.12,
+    "ClimAdjust": 26.3,
+    "MON": 8,
+    "TOTAL": 26.18,
+    "YR": 1961
+  },
+  {
+    "ANOM": -0.38,
+    "ClimAdjust": 26.16,
+    "MON": 9,
+    "TOTAL": 25.78,
+    "YR": 1961
+  },
+  {
+    "ANOM": -0.38,
+    "ClimAdjust": 26.09,
+    "MON": 10,
+    "TOTAL": 25.7,
+    "YR": 1961
+  },
+  {
+    "ANOM": -0.01,
+    "ClimAdjust": 26.08,
+    "MON": 11,
+    "TOTAL": 26.07,
+    "YR": 1961
+  },
+  {
+    "ANOM": -0.16,
+    "ClimAdjust": 26.14,
+    "MON": 12,
+    "TOTAL": 25.98,
+    "YR": 1961
+  },
+  {
+    "ANOM": -0.3,
+    "ClimAdjust": 26.27,
+    "MON": 1,
+    "TOTAL": 25.96,
+    "YR": 1962
+  },
+  {
+    "ANOM": -0.26,
+    "ClimAdjust": 26.45,
+    "MON": 2,
+    "TOTAL": 26.2,
+    "YR": 1962
+  },
+  {
+    "ANOM": -0.11,
+    "ClimAdjust": 26.92,
+    "MON": 3,
+    "TOTAL": 26.81,
+    "YR": 1962
+  },
+  {
+    "ANOM": -0.24,
+    "ClimAdjust": 27.37,
+    "MON": 4,
+    "TOTAL": 27.13,
+    "YR": 1962
+  },
+  {
+    "ANOM": -0.44,
+    "ClimAdjust": 27.49,
+    "MON": 5,
+    "TOTAL": 27.05,
+    "YR": 1962
+  },
+  {
+    "ANOM": -0.14,
+    "ClimAdjust": 27.22,
+    "MON": 6,
+    "TOTAL": 27.08,
+    "YR": 1962
+  },
+  {
+    "ANOM": -0.0,
+    "ClimAdjust": 26.76,
+    "MON": 7,
+    "TOTAL": 26.75,
+    "YR": 1962
+  },
+  {
+    "ANOM": 0.02,
+    "ClimAdjust": 26.3,
+    "MON": 8,
+    "TOTAL": 26.32,
+    "YR": 1962
+  },
+  {
+    "ANOM": -0.23,
+    "ClimAdjust": 26.16,
+    "MON": 9,
+    "TOTAL": 25.93,
+    "YR": 1962
+  },
+  {
+    "ANOM": -0.12,
+    "ClimAdjust": 26.09,
+    "MON": 10,
+    "TOTAL": 25.96,
+    "YR": 1962
+  },
+  {
+    "ANOM": -0.32,
+    "ClimAdjust": 26.08,
+    "MON": 11,
+    "TOTAL": 25.75,
+    "YR": 1962
+  },
+  {
+    "ANOM": -0.47,
+    "ClimAdjust": 26.14,
+    "MON": 12,
+    "TOTAL": 25.67,
+    "YR": 1962
+  },
+  {
+    "ANOM": -0.5,
+    "ClimAdjust": 26.27,
+    "MON": 1,
+    "TOTAL": 25.77,
+    "YR": 1963
+  },
+  {
+    "ANOM": -0.23,
+    "ClimAdjust": 26.45,
+    "MON": 2,
+    "TOTAL": 26.23,
+    "YR": 1963
+  },
+  {
+    "ANOM": 0.26,
+    "ClimAdjust": 26.92,
+    "MON": 3,
+    "TOTAL": 27.18,
+    "YR": 1963
+  },
+  {
+    "ANOM": 0.41,
+    "ClimAdjust": 27.37,
+    "MON": 4,
+    "TOTAL": 27.79,
+    "YR": 1963
+  },
+  {
+    "ANOM": 0.14,
+    "ClimAdjust": 27.49,
+    "MON": 5,
+    "TOTAL": 27.63,
+    "YR": 1963
+  },
+  {
+    "ANOM": 0.39,
+    "ClimAdjust": 27.22,
+    "MON": 6,
+    "TOTAL": 27.61,
+    "YR": 1963
+  },
+  {
+    "ANOM": 1.02,
+    "ClimAdjust": 26.76,
+    "MON": 7,
+    "TOTAL": 27.77,
+    "YR": 1963
+  },
+  {
+    "ANOM": 1.17,
+    "ClimAdjust": 26.3,
+    "MON": 8,
+    "TOTAL": 27.47,
+    "YR": 1963
+  },
+  {
+    "ANOM": 1.23,
+    "ClimAdjust": 26.16,
+    "MON": 9,
+    "TOTAL": 27.39,
+    "YR": 1963
+  },
+  {
+    "ANOM": 1.26,
+    "ClimAdjust": 26.09,
+    "MON": 10,
+    "TOTAL": 27.35,
+    "YR": 1963
+  },
+  {
+    "ANOM": 1.39,
+    "ClimAdjust": 26.08,
+    "MON": 11,
+    "TOTAL": 27.46,
+    "YR": 1963
+  },
+  {
+    "ANOM": 1.47,
+    "ClimAdjust": 26.14,
+    "MON": 12,
+    "TOTAL": 27.61,
+    "YR": 1963
+  },
+  {
+    "ANOM": 1.06,
+    "ClimAdjust": 26.27,
+    "MON": 1,
+    "TOTAL": 27.33,
+    "YR": 1964
+  },
+  {
+    "ANOM": 0.68,
+    "ClimAdjust": 26.45,
+    "MON": 2,
+    "TOTAL": 27.13,
+    "YR": 1964
+  },
+  {
+    "ANOM": 0.1,
+    "ClimAdjust": 26.92,
+    "MON": 3,
+    "TOTAL": 27.02,
+    "YR": 1964
+  },
+  {
+    "ANOM": -0.42,
+    "ClimAdjust": 27.37,
+    "MON": 4,
+    "TOTAL": 26.95,
+    "YR": 1964
+  },
+  {
+    "ANOM": -0.67,
+    "ClimAdjust": 27.49,
+    "MON": 5,
+    "TOTAL": 26.82,
+    "YR": 1964
+  },
+  {
+    "ANOM": -0.64,
+    "ClimAdjust": 27.22,
+    "MON": 6,
+    "TOTAL": 26.58,
+    "YR": 1964
+  },
+  {
+    "ANOM": -0.43,
+    "ClimAdjust": 26.76,
+    "MON": 7,
+    "TOTAL": 26.33,
+    "YR": 1964
+  },
+  {
+    "ANOM": -0.72,
+    "ClimAdjust": 26.3,
+    "MON": 8,
+    "TOTAL": 25.59,
+    "YR": 1964
+  },
+  {
+    "ANOM": -0.84,
+    "ClimAdjust": 26.16,
+    "MON": 9,
+    "TOTAL": 25.32,
+    "YR": 1964
+  },
+  {
+    "ANOM": -0.73,
+    "ClimAdjust": 26.09,
+    "MON": 10,
+    "TOTAL": 25.36,
+    "YR": 1964
+  },
+  {
+    "ANOM": -0.82,
+    "ClimAdjust": 26.08,
+    "MON": 11,
+    "TOTAL": 25.26,
+    "YR": 1964
+  },
+  {
+    "ANOM": -0.92,
+    "ClimAdjust": 26.14,
+    "MON": 12,
+    "TOTAL": 25.22,
+    "YR": 1964
+  },
+  {
+    "ANOM": -0.61,
+    "ClimAdjust": 26.27,
+    "MON": 1,
+    "TOTAL": 25.66,
+    "YR": 1965
+  },
+  {
+    "ANOM": -0.25,
+    "ClimAdjust": 26.45,
+    "MON": 2,
+    "TOTAL": 26.2,
+    "YR": 1965
+  },
+  {
+    "ANOM": 0.03,
+    "ClimAdjust": 26.92,
+    "MON": 3,
+    "TOTAL": 26.95,
+    "YR": 1965
+  },
+  {
+    "ANOM": 0.01,
+    "ClimAdjust": 27.37,
+    "MON": 4,
+    "TOTAL": 27.38,
+    "YR": 1965
+  },
+  {
+    "ANOM": 0.5,
+    "ClimAdjust": 27.49,
+    "MON": 5,
+    "TOTAL": 27.99,
+    "YR": 1965
+  },
+  {
+    "ANOM": 0.86,
+    "ClimAdjust": 27.22,
+    "MON": 6,
+    "TOTAL": 28.08,
+    "YR": 1965
+  },
+  {
+    "ANOM": 1.14,
+    "ClimAdjust": 26.76,
+    "MON": 7,
+    "TOTAL": 27.89,
+    "YR": 1965
+  },
+  {
+    "ANOM": 1.66,
+    "ClimAdjust": 26.3,
+    "MON": 8,
+    "TOTAL": 27.96,
+    "YR": 1965
+  },
+  {
+    "ANOM": 1.84,
+    "ClimAdjust": 26.16,
+    "MON": 9,
+    "TOTAL": 28.0,
+    "YR": 1965
+  },
+  {
+    "ANOM": 2.06,
+    "ClimAdjust": 26.09,
+    "MON": 10,
+    "TOTAL": 28.15,
+    "YR": 1965
+  },
+  {
+    "ANOM": 2.03,
+    "ClimAdjust": 26.08,
+    "MON": 11,
+    "TOTAL": 28.11,
+    "YR": 1965
+  },
+  {
+    "ANOM": 1.81,
+    "ClimAdjust": 26.14,
+    "MON": 12,
+    "TOTAL": 27.95,
+    "YR": 1965
+  },
+  {
+    "ANOM": 1.31,
+    "ClimAdjust": 26.36,
+    "MON": 1,
+    "TOTAL": 27.66,
+    "YR": 1966
+  },
+  {
+    "ANOM": 1.0,
+    "ClimAdjust": 26.56,
+    "MON": 2,
+    "TOTAL": 27.55,
+    "YR": 1966
+  },
+  {
+    "ANOM": 1.19,
+    "ClimAdjust": 27.02,
+    "MON": 3,
+    "TOTAL": 28.21,
+    "YR": 1966
+  },
+  {
+    "ANOM": 0.76,
+    "ClimAdjust": 27.4,
+    "MON": 4,
+    "TOTAL": 28.16,
+    "YR": 1966
+  },
+  {
+    "ANOM": 0.02,
+    "ClimAdjust": 27.53,
+    "MON": 5,
+    "TOTAL": 27.55,
+    "YR": 1966
+  },
+  {
+    "ANOM": 0.29,
+    "ClimAdjust": 27.35,
+    "MON": 6,
+    "TOTAL": 27.63,
+    "YR": 1966
+  },
+  {
+    "ANOM": 0.42,
+    "ClimAdjust": 26.9,
+    "MON": 7,
+    "TOTAL": 27.32,
+    "YR": 1966
+  },
+  {
+    "ANOM": 0.02,
+    "ClimAdjust": 26.46,
+    "MON": 8,
+    "TOTAL": 26.48,
+    "YR": 1966
+  },
+  {
+    "ANOM": -0.07,
+    "ClimAdjust": 26.34,
+    "MON": 9,
+    "TOTAL": 26.27,
+    "YR": 1966
+  },
+  {
+    "ANOM": -0.11,
+    "ClimAdjust": 26.33,
+    "MON": 10,
+    "TOTAL": 26.22,
+    "YR": 1966
+  },
+  {
+    "ANOM": -0.12,
+    "ClimAdjust": 26.35,
+    "MON": 11,
+    "TOTAL": 26.23,
+    "YR": 1966
+  },
+  {
+    "ANOM": -0.31,
+    "ClimAdjust": 26.33,
+    "MON": 12,
+    "TOTAL": 26.02,
+    "YR": 1966
+  },
+  {
+    "ANOM": -0.48,
+    "ClimAdjust": 26.36,
+    "MON": 1,
+    "TOTAL": 25.88,
+    "YR": 1967
+  },
+  {
+    "ANOM": -0.44,
+    "ClimAdjust": 26.56,
+    "MON": 2,
+    "TOTAL": 26.12,
+    "YR": 1967
+  },
+  {
+    "ANOM": -0.51,
+    "ClimAdjust": 27.02,
+    "MON": 3,
+    "TOTAL": 26.51,
+    "YR": 1967
+  },
+  {
+    "ANOM": -0.66,
+    "ClimAdjust": 27.4,
+    "MON": 4,
+    "TOTAL": 26.75,
+    "YR": 1967
+  },
+  {
+    "ANOM": -0.18,
+    "ClimAdjust": 27.53,
+    "MON": 5,
+    "TOTAL": 27.35,
+    "YR": 1967
+  },
+  {
+    "ANOM": 0.12,
+    "ClimAdjust": 27.35,
+    "MON": 6,
+    "TOTAL": 27.46,
+    "YR": 1967
+  },
+  {
+    "ANOM": 0.06,
+    "ClimAdjust": 26.9,
+    "MON": 7,
+    "TOTAL": 26.96,
+    "YR": 1967
+  },
+  {
+    "ANOM": -0.03,
+    "ClimAdjust": 26.46,
+    "MON": 8,
+    "TOTAL": 26.43,
+    "YR": 1967
+  },
+  {
+    "ANOM": -0.49,
+    "ClimAdjust": 26.34,
+    "MON": 9,
+    "TOTAL": 25.85,
+    "YR": 1967
+  },
+  {
+    "ANOM": -0.36,
+    "ClimAdjust": 26.33,
+    "MON": 10,
+    "TOTAL": 25.96,
+    "YR": 1967
+  },
+  {
+    "ANOM": -0.28,
+    "ClimAdjust": 26.35,
+    "MON": 11,
+    "TOTAL": 26.07,
+    "YR": 1967
+  },
+  {
+    "ANOM": -0.38,
+    "ClimAdjust": 26.33,
+    "MON": 12,
+    "TOTAL": 25.95,
+    "YR": 1967
+  },
+  {
+    "ANOM": -0.66,
+    "ClimAdjust": 26.36,
+    "MON": 1,
+    "TOTAL": 25.69,
+    "YR": 1968
+  },
+  {
+    "ANOM": -0.86,
+    "ClimAdjust": 26.56,
+    "MON": 2,
+    "TOTAL": 25.69,
+    "YR": 1968
+  },
+  {
+    "ANOM": -0.68,
+    "ClimAdjust": 27.02,
+    "MON": 3,
+    "TOTAL": 26.34,
+    "YR": 1968
+  },
+  {
+    "ANOM": -0.3,
+    "ClimAdjust": 27.4,
+    "MON": 4,
+    "TOTAL": 27.1,
+    "YR": 1968
+  },
+  {
+    "ANOM": -0.34,
+    "ClimAdjust": 27.53,
+    "MON": 5,
+    "TOTAL": 27.19,
+    "YR": 1968
+  },
+  {
+    "ANOM": 0.52,
+    "ClimAdjust": 27.35,
+    "MON": 6,
+    "TOTAL": 27.87,
+    "YR": 1968
+  },
+  {
+    "ANOM": 0.66,
+    "ClimAdjust": 26.9,
+    "MON": 7,
+    "TOTAL": 27.57,
+    "YR": 1968
+  },
+  {
+    "ANOM": 0.54,
+    "ClimAdjust": 26.46,
+    "MON": 8,
+    "TOTAL": 27.0,
+    "YR": 1968
+  },
+  {
+    "ANOM": 0.38,
+    "ClimAdjust": 26.34,
+    "MON": 9,
+    "TOTAL": 26.72,
+    "YR": 1968
+  },
+  {
+    "ANOM": 0.42,
+    "ClimAdjust": 26.33,
+    "MON": 10,
+    "TOTAL": 26.75,
+    "YR": 1968
+  },
+  {
+    "ANOM": 0.85,
+    "ClimAdjust": 26.35,
+    "MON": 11,
+    "TOTAL": 27.2,
+    "YR": 1968
+  },
+  {
+    "ANOM": 0.94,
+    "ClimAdjust": 26.33,
+    "MON": 12,
+    "TOTAL": 27.27,
+    "YR": 1968
+  },
+  {
+    "ANOM": 1.14,
+    "ClimAdjust": 26.36,
+    "MON": 1,
+    "TOTAL": 27.5,
+    "YR": 1969
+  },
+  {
+    "ANOM": 1.31,
+    "ClimAdjust": 26.56,
+    "MON": 2,
+    "TOTAL": 27.86,
+    "YR": 1969
+  },
+  {
+    "ANOM": 0.81,
+    "ClimAdjust": 27.02,
+    "MON": 3,
+    "TOTAL": 27.83,
+    "YR": 1969
+  },
+  {
+    "ANOM": 0.73,
+    "ClimAdjust": 27.4,
+    "MON": 4,
+    "TOTAL": 28.14,
+    "YR": 1969
+  },
+  {
+    "ANOM": 0.76,
+    "ClimAdjust": 27.53,
+    "MON": 5,
+    "TOTAL": 28.29,
+    "YR": 1969
+  },
+  {
+    "ANOM": 0.35,
+    "ClimAdjust": 27.35,
+    "MON": 6,
+    "TOTAL": 27.69,
+    "YR": 1969
+  },
+  {
+    "ANOM": 0.18,
+    "ClimAdjust": 26.9,
+    "MON": 7,
+    "TOTAL": 27.08,
+    "YR": 1969
+  },
+  {
+    "ANOM": 0.56,
+    "ClimAdjust": 26.46,
+    "MON": 8,
+    "TOTAL": 27.02,
+    "YR": 1969
+  },
+  {
+    "ANOM": 0.81,
+    "ClimAdjust": 26.34,
+    "MON": 9,
+    "TOTAL": 27.15,
+    "YR": 1969
+  },
+  {
+    "ANOM": 1.01,
+    "ClimAdjust": 26.33,
+    "MON": 10,
+    "TOTAL": 27.34,
+    "YR": 1969
+  },
+  {
+    "ANOM": 0.76,
+    "ClimAdjust": 26.35,
+    "MON": 11,
+    "TOTAL": 27.11,
+    "YR": 1969
+  },
+  {
+    "ANOM": 0.66,
+    "ClimAdjust": 26.33,
+    "MON": 12,
+    "TOTAL": 26.98,
+    "YR": 1969
+  },
+  {
+    "ANOM": 0.48,
+    "ClimAdjust": 26.36,
+    "MON": 1,
+    "TOTAL": 26.84,
+    "YR": 1970
+  },
+  {
+    "ANOM": 0.41,
+    "ClimAdjust": 26.56,
+    "MON": 2,
+    "TOTAL": 26.96,
+    "YR": 1970
+  },
+  {
+    "ANOM": 0.13,
+    "ClimAdjust": 27.02,
+    "MON": 3,
+    "TOTAL": 27.15,
+    "YR": 1970
+  },
+  {
+    "ANOM": 0.34,
+    "ClimAdjust": 27.4,
+    "MON": 4,
+    "TOTAL": 27.75,
+    "YR": 1970
+  },
+  {
+    "ANOM": 0.1,
+    "ClimAdjust": 27.53,
+    "MON": 5,
+    "TOTAL": 27.63,
+    "YR": 1970
+  },
+  {
+    "ANOM": -0.31,
+    "ClimAdjust": 27.35,
+    "MON": 6,
+    "TOTAL": 27.03,
+    "YR": 1970
+  },
+  {
+    "ANOM": -0.7,
+    "ClimAdjust": 26.9,
+    "MON": 7,
+    "TOTAL": 26.21,
+    "YR": 1970
+  },
+  {
+    "ANOM": -0.87,
+    "ClimAdjust": 26.46,
+    "MON": 8,
+    "TOTAL": 25.59,
+    "YR": 1970
+  },
+  {
+    "ANOM": -0.7,
+    "ClimAdjust": 26.34,
+    "MON": 9,
+    "TOTAL": 25.64,
+    "YR": 1970
+  },
+  {
+    "ANOM": -0.73,
+    "ClimAdjust": 26.33,
+    "MON": 10,
+    "TOTAL": 25.59,
+    "YR": 1970
+  },
+  {
+    "ANOM": -0.78,
+    "ClimAdjust": 26.35,
+    "MON": 11,
+    "TOTAL": 25.57,
+    "YR": 1970
+  },
+  {
+    "ANOM": -1.06,
+    "ClimAdjust": 26.33,
+    "MON": 12,
+    "TOTAL": 25.27,
+    "YR": 1970
+  },
+  {
+    "ANOM": -1.6,
+    "ClimAdjust": 26.42,
+    "MON": 1,
+    "TOTAL": 24.82,
+    "YR": 1971
+  },
+  {
+    "ANOM": -1.42,
+    "ClimAdjust": 26.61,
+    "MON": 2,
+    "TOTAL": 25.2,
+    "YR": 1971
+  },
+  {
+    "ANOM": -1.13,
+    "ClimAdjust": 27.06,
+    "MON": 3,
+    "TOTAL": 25.93,
+    "YR": 1971
+  },
+  {
+    "ANOM": -0.8,
+    "ClimAdjust": 27.44,
+    "MON": 4,
+    "TOTAL": 26.64,
+    "YR": 1971
+  },
+  {
+    "ANOM": -0.61,
+    "ClimAdjust": 27.56,
+    "MON": 5,
+    "TOTAL": 26.95,
+    "YR": 1971
+  },
+  {
+    "ANOM": -0.78,
+    "ClimAdjust": 27.38,
+    "MON": 6,
+    "TOTAL": 26.6,
+    "YR": 1971
+  },
+  {
+    "ANOM": -0.82,
+    "ClimAdjust": 26.94,
+    "MON": 7,
+    "TOTAL": 26.12,
+    "YR": 1971
+  },
+  {
+    "ANOM": -0.79,
+    "ClimAdjust": 26.54,
+    "MON": 8,
+    "TOTAL": 25.74,
+    "YR": 1971
+  },
+  {
+    "ANOM": -0.71,
+    "ClimAdjust": 26.42,
+    "MON": 9,
+    "TOTAL": 25.71,
+    "YR": 1971
+  },
+  {
+    "ANOM": -0.96,
+    "ClimAdjust": 26.43,
+    "MON": 10,
+    "TOTAL": 25.47,
+    "YR": 1971
+  },
+  {
+    "ANOM": -0.88,
+    "ClimAdjust": 26.43,
+    "MON": 11,
+    "TOTAL": 25.55,
+    "YR": 1971
+  },
+  {
+    "ANOM": -1.03,
+    "ClimAdjust": 26.4,
+    "MON": 12,
+    "TOTAL": 25.37,
+    "YR": 1971
+  },
+  {
+    "ANOM": -0.78,
+    "ClimAdjust": 26.42,
+    "MON": 1,
+    "TOTAL": 25.63,
+    "YR": 1972
+  },
+  {
+    "ANOM": -0.3,
+    "ClimAdjust": 26.61,
+    "MON": 2,
+    "TOTAL": 26.31,
+    "YR": 1972
+  },
+  {
+    "ANOM": 0.03,
+    "ClimAdjust": 27.06,
+    "MON": 3,
+    "TOTAL": 27.09,
+    "YR": 1972
+  },
+  {
+    "ANOM": 0.45,
+    "ClimAdjust": 27.44,
+    "MON": 4,
+    "TOTAL": 27.9,
+    "YR": 1972
+  },
+  {
+    "ANOM": 0.75,
+    "ClimAdjust": 27.56,
+    "MON": 5,
+    "TOTAL": 28.31,
+    "YR": 1972
+  },
+  {
+    "ANOM": 0.8,
+    "ClimAdjust": 27.38,
+    "MON": 6,
+    "TOTAL": 28.18,
+    "YR": 1972
+  },
+  {
+    "ANOM": 1.2,
+    "ClimAdjust": 26.94,
+    "MON": 7,
+    "TOTAL": 28.14,
+    "YR": 1972
+  },
+  {
+    "ANOM": 1.4,
+    "ClimAdjust": 26.54,
+    "MON": 8,
+    "TOTAL": 27.94,
+    "YR": 1972
+  },
+  {
+    "ANOM": 1.52,
+    "ClimAdjust": 26.42,
+    "MON": 9,
+    "TOTAL": 27.94,
+    "YR": 1972
+  },
+  {
+    "ANOM": 1.83,
+    "ClimAdjust": 26.43,
+    "MON": 10,
+    "TOTAL": 28.25,
+    "YR": 1972
+  },
+  {
+    "ANOM": 2.17,
+    "ClimAdjust": 26.43,
+    "MON": 11,
+    "TOTAL": 28.6,
+    "YR": 1972
+  },
+  {
+    "ANOM": 2.28,
+    "ClimAdjust": 26.4,
+    "MON": 12,
+    "TOTAL": 28.68,
+    "YR": 1972
+  },
+  {
+    "ANOM": 1.92,
+    "ClimAdjust": 26.42,
+    "MON": 1,
+    "TOTAL": 28.33,
+    "YR": 1973
+  },
+  {
+    "ANOM": 1.34,
+    "ClimAdjust": 26.61,
+    "MON": 2,
+    "TOTAL": 27.95,
+    "YR": 1973
+  },
+  {
+    "ANOM": 0.49,
+    "ClimAdjust": 27.06,
+    "MON": 3,
+    "TOTAL": 27.56,
+    "YR": 1973
+  },
+  {
+    "ANOM": -0.19,
+    "ClimAdjust": 27.44,
+    "MON": 4,
+    "TOTAL": 27.25,
+    "YR": 1973
+  },
+  {
+    "ANOM": -0.59,
+    "ClimAdjust": 27.56,
+    "MON": 5,
+    "TOTAL": 26.97,
+    "YR": 1973
+  },
+  {
+    "ANOM": -0.83,
+    "ClimAdjust": 27.38,
+    "MON": 6,
+    "TOTAL": 26.55,
+    "YR": 1973
+  },
+  {
+    "ANOM": -1.18,
+    "ClimAdjust": 26.94,
+    "MON": 7,
+    "TOTAL": 25.76,
+    "YR": 1973
+  },
+  {
+    "ANOM": -1.31,
+    "ClimAdjust": 26.54,
+    "MON": 8,
+    "TOTAL": 25.23,
+    "YR": 1973
+  },
+  {
+    "ANOM": -1.36,
+    "ClimAdjust": 26.42,
+    "MON": 9,
+    "TOTAL": 25.06,
+    "YR": 1973
+  },
+  {
+    "ANOM": -1.69,
+    "ClimAdjust": 26.43,
+    "MON": 10,
+    "TOTAL": 24.74,
+    "YR": 1973
+  },
+  {
+    "ANOM": -2.09,
+    "ClimAdjust": 26.43,
+    "MON": 11,
+    "TOTAL": 24.34,
+    "YR": 1973
+  },
+  {
+    "ANOM": -2.06,
+    "ClimAdjust": 26.4,
+    "MON": 12,
+    "TOTAL": 24.34,
+    "YR": 1973
+  },
+  {
+    "ANOM": -1.95,
+    "ClimAdjust": 26.42,
+    "MON": 1,
+    "TOTAL": 24.47,
+    "YR": 1974
+  },
+  {
+    "ANOM": -1.5,
+    "ClimAdjust": 26.61,
+    "MON": 2,
+    "TOTAL": 25.11,
+    "YR": 1974
+  },
+  {
+    "ANOM": -1.21,
+    "ClimAdjust": 27.06,
+    "MON": 3,
+    "TOTAL": 25.86,
+    "YR": 1974
+  },
+  {
+    "ANOM": -0.97,
+    "ClimAdjust": 27.44,
+    "MON": 4,
+    "TOTAL": 26.48,
+    "YR": 1974
+  },
+  {
+    "ANOM": -0.91,
+    "ClimAdjust": 27.56,
+    "MON": 5,
+    "TOTAL": 26.65,
+    "YR": 1974
+  },
+  {
+    "ANOM": -0.85,
+    "ClimAdjust": 27.38,
+    "MON": 6,
+    "TOTAL": 26.53,
+    "YR": 1974
+  },
+  {
+    "ANOM": -0.55,
+    "ClimAdjust": 26.94,
+    "MON": 7,
+    "TOTAL": 26.39,
+    "YR": 1974
+  },
+  {
+    "ANOM": -0.21,
+    "ClimAdjust": 26.54,
+    "MON": 8,
+    "TOTAL": 26.33,
+    "YR": 1974
+  },
+  {
+    "ANOM": -0.35,
+    "ClimAdjust": 26.42,
+    "MON": 9,
+    "TOTAL": 26.07,
+    "YR": 1974
+  },
+  {
+    "ANOM": -0.66,
+    "ClimAdjust": 26.43,
+    "MON": 10,
+    "TOTAL": 25.77,
+    "YR": 1974
+  },
+  {
+    "ANOM": -0.82,
+    "ClimAdjust": 26.43,
+    "MON": 11,
+    "TOTAL": 25.61,
+    "YR": 1974
+  },
+  {
+    "ANOM": -0.78,
+    "ClimAdjust": 26.4,
+    "MON": 12,
+    "TOTAL": 25.63,
+    "YR": 1974
+  },
+  {
+    "ANOM": -0.32,
+    "ClimAdjust": 26.42,
+    "MON": 1,
+    "TOTAL": 26.1,
+    "YR": 1975
+  },
+  {
+    "ANOM": -0.53,
+    "ClimAdjust": 26.61,
+    "MON": 2,
+    "TOTAL": 26.08,
+    "YR": 1975
+  },
+  {
+    "ANOM": -0.86,
+    "ClimAdjust": 27.06,
+    "MON": 3,
+    "TOTAL": 26.21,
+    "YR": 1975
+  },
+  {
+    "ANOM": -0.58,
+    "ClimAdjust": 27.44,
+    "MON": 4,
+    "TOTAL": 26.87,
+    "YR": 1975
+  },
+  {
+    "ANOM": -0.76,
+    "ClimAdjust": 27.56,
+    "MON": 5,
+    "TOTAL": 26.8,
+    "YR": 1975
+  },
+  {
+    "ANOM": -1.15,
+    "ClimAdjust": 27.38,
+    "MON": 6,
+    "TOTAL": 26.23,
+    "YR": 1975
+  },
+  {
+    "ANOM": -1.04,
+    "ClimAdjust": 26.94,
+    "MON": 7,
+    "TOTAL": 25.9,
+    "YR": 1975
+  },
+  {
+    "ANOM": -1.2,
+    "ClimAdjust": 26.54,
+    "MON": 8,
+    "TOTAL": 25.34,
+    "YR": 1975
+  },
+  {
+    "ANOM": -1.37,
+    "ClimAdjust": 26.42,
+    "MON": 9,
+    "TOTAL": 25.05,
+    "YR": 1975
+  },
+  {
+    "ANOM": -1.54,
+    "ClimAdjust": 26.43,
+    "MON": 10,
+    "TOTAL": 24.89,
+    "YR": 1975
+  },
+  {
+    "ANOM": -1.38,
+    "ClimAdjust": 26.43,
+    "MON": 11,
+    "TOTAL": 25.05,
+    "YR": 1975
+  },
+  {
+    "ANOM": -1.73,
+    "ClimAdjust": 26.4,
+    "MON": 12,
+    "TOTAL": 24.67,
+    "YR": 1975
+  },
+  {
+    "ANOM": -1.84,
+    "ClimAdjust": 26.39,
+    "MON": 1,
+    "TOTAL": 24.54,
+    "YR": 1976
+  },
+  {
+    "ANOM": -1.09,
+    "ClimAdjust": 26.59,
+    "MON": 2,
+    "TOTAL": 25.49,
+    "YR": 1976
+  },
+  {
+    "ANOM": -0.58,
+    "ClimAdjust": 27.04,
+    "MON": 3,
+    "TOTAL": 26.46,
+    "YR": 1976
+  },
+  {
+    "ANOM": -0.53,
+    "ClimAdjust": 27.42,
+    "MON": 4,
+    "TOTAL": 26.89,
+    "YR": 1976
+  },
+  {
+    "ANOM": -0.31,
+    "ClimAdjust": 27.51,
+    "MON": 5,
+    "TOTAL": 27.2,
+    "YR": 1976
+  },
+  {
+    "ANOM": -0.0,
+    "ClimAdjust": 27.35,
+    "MON": 6,
+    "TOTAL": 27.35,
+    "YR": 1976
+  },
+  {
+    "ANOM": 0.17,
+    "ClimAdjust": 26.95,
+    "MON": 7,
+    "TOTAL": 27.12,
+    "YR": 1976
+  },
+  {
+    "ANOM": 0.38,
+    "ClimAdjust": 26.59,
+    "MON": 8,
+    "TOTAL": 26.98,
+    "YR": 1976
+  },
+  {
+    "ANOM": 0.5,
+    "ClimAdjust": 26.51,
+    "MON": 9,
+    "TOTAL": 27.02,
+    "YR": 1976
+  },
+  {
+    "ANOM": 0.98,
+    "ClimAdjust": 26.48,
+    "MON": 10,
+    "TOTAL": 27.46,
+    "YR": 1976
+  },
+  {
+    "ANOM": 0.95,
+    "ClimAdjust": 26.46,
+    "MON": 11,
+    "TOTAL": 27.41,
+    "YR": 1976
+  },
+  {
+    "ANOM": 0.66,
+    "ClimAdjust": 26.43,
+    "MON": 12,
+    "TOTAL": 27.08,
+    "YR": 1976
+  },
+  {
+    "ANOM": 0.93,
+    "ClimAdjust": 26.39,
+    "MON": 1,
+    "TOTAL": 27.32,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.55,
+    "ClimAdjust": 26.59,
+    "MON": 2,
+    "TOTAL": 27.13,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.44,
+    "ClimAdjust": 27.04,
+    "MON": 3,
+    "TOTAL": 27.48,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.03,
+    "ClimAdjust": 27.42,
+    "MON": 4,
+    "TOTAL": 27.45,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.22,
+    "ClimAdjust": 27.51,
+    "MON": 5,
+    "TOTAL": 27.72,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.39,
+    "ClimAdjust": 27.35,
+    "MON": 6,
+    "TOTAL": 27.74,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.42,
+    "ClimAdjust": 26.95,
+    "MON": 7,
+    "TOTAL": 27.38,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.25,
+    "ClimAdjust": 26.59,
+    "MON": 8,
+    "TOTAL": 26.84,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.6,
+    "ClimAdjust": 26.51,
+    "MON": 9,
+    "TOTAL": 27.11,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.86,
+    "ClimAdjust": 26.48,
+    "MON": 10,
+    "TOTAL": 27.34,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.72,
+    "ClimAdjust": 26.46,
+    "MON": 11,
+    "TOTAL": 27.18,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.86,
+    "ClimAdjust": 26.43,
+    "MON": 12,
+    "TOTAL": 27.29,
+    "YR": 1977
+  },
+  {
+    "ANOM": 0.78,
+    "ClimAdjust": 26.39,
+    "MON": 1,
+    "TOTAL": 27.17,
+    "YR": 1978
+  },
+  {
+    "ANOM": 0.42,
+    "ClimAdjust": 26.59,
+    "MON": 2,
+    "TOTAL": 27.01,
+    "YR": 1978
+  },
+  {
+    "ANOM": 0.06,
+    "ClimAdjust": 27.04,
+    "MON": 3,
+    "TOTAL": 27.1,
+    "YR": 1978
+  },
+  {
+    "ANOM": -0.3,
+    "ClimAdjust": 27.42,
+    "MON": 4,
+    "TOTAL": 27.12,
+    "YR": 1978
+  },
+  {
+    "ANOM": -0.31,
+    "ClimAdjust": 27.51,
+    "MON": 5,
+    "TOTAL": 27.2,
+    "YR": 1978
+  },
+  {
+    "ANOM": -0.33,
+    "ClimAdjust": 27.35,
+    "MON": 6,
+    "TOTAL": 27.02,
+    "YR": 1978
+  },
+  {
+    "ANOM": -0.22,
+    "ClimAdjust": 26.95,
+    "MON": 7,
+    "TOTAL": 26.74,
+    "YR": 1978
+  },
+  {
+    "ANOM": -0.53,
+    "ClimAdjust": 26.59,
+    "MON": 8,
+    "TOTAL": 26.07,
+    "YR": 1978
+  },
+  {
+    "ANOM": -0.5,
+    "ClimAdjust": 26.51,
+    "MON": 9,
+    "TOTAL": 26.01,
+    "YR": 1978
+  },
+  {
+    "ANOM": -0.23,
+    "ClimAdjust": 26.48,
+    "MON": 10,
+    "TOTAL": 26.25,
+    "YR": 1978
+  },
+  {
+    "ANOM": -0.14,
+    "ClimAdjust": 26.46,
+    "MON": 11,
+    "TOTAL": 26.32,
+    "YR": 1978
+  },
+  {
+    "ANOM": 0.11,
+    "ClimAdjust": 26.43,
+    "MON": 12,
+    "TOTAL": 26.54,
+    "YR": 1978
+  },
+  {
+    "ANOM": 0.03,
+    "ClimAdjust": 26.39,
+    "MON": 1,
+    "TOTAL": 26.42,
+    "YR": 1979
+  },
+  {
+    "ANOM": -0.04,
+    "ClimAdjust": 26.59,
+    "MON": 2,
+    "TOTAL": 26.54,
+    "YR": 1979
+  },
+  {
+    "ANOM": 0.23,
+    "ClimAdjust": 27.04,
+    "MON": 3,
+    "TOTAL": 27.28,
+    "YR": 1979
+  },
+  {
+    "ANOM": 0.42,
+    "ClimAdjust": 27.42,
+    "MON": 4,
+    "TOTAL": 27.84,
+    "YR": 1979
+  },
+  {
+    "ANOM": 0.19,
+    "ClimAdjust": 27.51,
+    "MON": 5,
+    "TOTAL": 27.69,
+    "YR": 1979
+  },
+  {
+    "ANOM": 0.08,
+    "ClimAdjust": 27.35,
+    "MON": 6,
+    "TOTAL": 27.43,
+    "YR": 1979
+  },
+  {
+    "ANOM": -0.13,
+    "ClimAdjust": 26.95,
+    "MON": 7,
+    "TOTAL": 26.82,
+    "YR": 1979
+  },
+  {
+    "ANOM": 0.16,
+    "ClimAdjust": 26.59,
+    "MON": 8,
+    "TOTAL": 26.75,
+    "YR": 1979
+  },
+  {
+    "ANOM": 0.48,
+    "ClimAdjust": 26.51,
+    "MON": 9,
+    "TOTAL": 26.99,
+    "YR": 1979
+  },
+  {
+    "ANOM": 0.35,
+    "ClimAdjust": 26.48,
+    "MON": 10,
+    "TOTAL": 26.83,
+    "YR": 1979
+  },
+  {
+    "ANOM": 0.53,
+    "ClimAdjust": 26.46,
+    "MON": 11,
+    "TOTAL": 26.99,
+    "YR": 1979
+  },
+  {
+    "ANOM": 0.69,
+    "ClimAdjust": 26.43,
+    "MON": 12,
+    "TOTAL": 27.11,
+    "YR": 1979
+  },
+  {
+    "ANOM": 0.7,
+    "ClimAdjust": 26.39,
+    "MON": 1,
+    "TOTAL": 27.09,
+    "YR": 1980
+  },
+  {
+    "ANOM": 0.39,
+    "ClimAdjust": 26.59,
+    "MON": 2,
+    "TOTAL": 26.98,
+    "YR": 1980
+  },
+  {
+    "ANOM": 0.28,
+    "ClimAdjust": 27.04,
+    "MON": 3,
+    "TOTAL": 27.32,
+    "YR": 1980
+  },
+  {
+    "ANOM": 0.34,
+    "ClimAdjust": 27.42,
+    "MON": 4,
+    "TOTAL": 27.76,
+    "YR": 1980
+  },
+  {
+    "ANOM": 0.51,
+    "ClimAdjust": 27.51,
+    "MON": 5,
+    "TOTAL": 28.02,
+    "YR": 1980
+  },
+  {
+    "ANOM": 0.59,
+    "ClimAdjust": 27.35,
+    "MON": 6,
+    "TOTAL": 27.94,
+    "YR": 1980
+  },
+  {
+    "ANOM": 0.28,
+    "ClimAdjust": 26.95,
+    "MON": 7,
+    "TOTAL": 27.23,
+    "YR": 1980
+  },
+  {
+    "ANOM": -0.11,
+    "ClimAdjust": 26.59,
+    "MON": 8,
+    "TOTAL": 26.48,
+    "YR": 1980
+  },
+  {
+    "ANOM": -0.07,
+    "ClimAdjust": 26.51,
+    "MON": 9,
+    "TOTAL": 26.44,
+    "YR": 1980
+  },
+  {
+    "ANOM": -0.02,
+    "ClimAdjust": 26.48,
+    "MON": 10,
+    "TOTAL": 26.46,
+    "YR": 1980
+  },
+  {
+    "ANOM": 0.14,
+    "ClimAdjust": 26.46,
+    "MON": 11,
+    "TOTAL": 26.6,
+    "YR": 1980
+  },
+  {
+    "ANOM": 0.22,
+    "ClimAdjust": 26.43,
+    "MON": 12,
+    "TOTAL": 26.65,
+    "YR": 1980
+  },
+  {
+    "ANOM": -0.38,
+    "ClimAdjust": 26.57,
+    "MON": 1,
+    "TOTAL": 26.19,
+    "YR": 1981
+  },
+  {
+    "ANOM": -0.62,
+    "ClimAdjust": 26.75,
+    "MON": 2,
+    "TOTAL": 26.12,
+    "YR": 1981
+  },
+  {
+    "ANOM": -0.51,
+    "ClimAdjust": 27.17,
+    "MON": 3,
+    "TOTAL": 26.66,
+    "YR": 1981
+  },
+  {
+    "ANOM": -0.29,
+    "ClimAdjust": 27.59,
+    "MON": 4,
+    "TOTAL": 27.3,
+    "YR": 1981
+  },
+  {
+    "ANOM": -0.3,
+    "ClimAdjust": 27.66,
+    "MON": 5,
+    "TOTAL": 27.36,
+    "YR": 1981
+  },
+  {
+    "ANOM": -0.19,
+    "ClimAdjust": 27.46,
+    "MON": 6,
+    "TOTAL": 27.27,
+    "YR": 1981
+  },
+  {
+    "ANOM": -0.37,
+    "ClimAdjust": 27.02,
+    "MON": 7,
+    "TOTAL": 26.65,
+    "YR": 1981
+  },
+  {
+    "ANOM": -0.32,
+    "ClimAdjust": 26.64,
+    "MON": 8,
+    "TOTAL": 26.32,
+    "YR": 1981
+  },
+  {
+    "ANOM": -0.04,
+    "ClimAdjust": 26.56,
+    "MON": 9,
+    "TOTAL": 26.52,
+    "YR": 1981
+  },
+  {
+    "ANOM": -0.11,
+    "ClimAdjust": 26.53,
+    "MON": 10,
+    "TOTAL": 26.42,
+    "YR": 1981
+  },
+  {
+    "ANOM": -0.23,
+    "ClimAdjust": 26.52,
+    "MON": 11,
+    "TOTAL": 26.29,
+    "YR": 1981
+  },
+  {
+    "ANOM": -0.11,
+    "ClimAdjust": 26.51,
+    "MON": 12,
+    "TOTAL": 26.4,
+    "YR": 1981
+  },
+  {
+    "ANOM": 0.11,
+    "ClimAdjust": 26.57,
+    "MON": 1,
+    "TOTAL": 26.68,
+    "YR": 1982
+  },
+  {
+    "ANOM": -0.15,
+    "ClimAdjust": 26.75,
+    "MON": 2,
+    "TOTAL": 26.6,
+    "YR": 1982
+  },
+  {
+    "ANOM": 0.25,
+    "ClimAdjust": 27.17,
+    "MON": 3,
+    "TOTAL": 27.42,
+    "YR": 1982
+  },
+  {
+    "ANOM": 0.45,
+    "ClimAdjust": 27.59,
+    "MON": 4,
+    "TOTAL": 28.03,
+    "YR": 1982
+  },
+  {
+    "ANOM": 0.72,
+    "ClimAdjust": 27.66,
+    "MON": 5,
+    "TOTAL": 28.39,
+    "YR": 1982
+  },
+  {
+    "ANOM": 0.8,
+    "ClimAdjust": 27.46,
+    "MON": 6,
+    "TOTAL": 28.26,
+    "YR": 1982
+  },
+  {
+    "ANOM": 0.64,
+    "ClimAdjust": 27.02,
+    "MON": 7,
+    "TOTAL": 27.66,
+    "YR": 1982
+  },
+  {
+    "ANOM": 0.93,
+    "ClimAdjust": 26.64,
+    "MON": 8,
+    "TOTAL": 27.58,
+    "YR": 1982
+  },
+  {
+    "ANOM": 1.64,
+    "ClimAdjust": 26.56,
+    "MON": 9,
+    "TOTAL": 28.2,
+    "YR": 1982
+  },
+  {
+    "ANOM": 2.16,
+    "ClimAdjust": 26.53,
+    "MON": 10,
+    "TOTAL": 28.69,
+    "YR": 1982
+  },
+  {
+    "ANOM": 2.09,
+    "ClimAdjust": 26.52,
+    "MON": 11,
+    "TOTAL": 28.61,
+    "YR": 1982
+  },
+  {
+    "ANOM": 2.28,
+    "ClimAdjust": 26.51,
+    "MON": 12,
+    "TOTAL": 28.79,
+    "YR": 1982
+  },
+  {
+    "ANOM": 2.32,
+    "ClimAdjust": 26.57,
+    "MON": 1,
+    "TOTAL": 28.88,
+    "YR": 1983
+  },
+  {
+    "ANOM": 1.94,
+    "ClimAdjust": 26.75,
+    "MON": 2,
+    "TOTAL": 28.69,
+    "YR": 1983
+  },
+  {
+    "ANOM": 1.49,
+    "ClimAdjust": 27.17,
+    "MON": 3,
+    "TOTAL": 28.67,
+    "YR": 1983
+  },
+  {
+    "ANOM": 1.19,
+    "ClimAdjust": 27.59,
+    "MON": 4,
+    "TOTAL": 28.77,
+    "YR": 1983
+  },
+  {
+    "ANOM": 1.18,
+    "ClimAdjust": 27.66,
+    "MON": 5,
+    "TOTAL": 28.84,
+    "YR": 1983
+  },
+  {
+    "ANOM": 0.82,
+    "ClimAdjust": 27.46,
+    "MON": 6,
+    "TOTAL": 28.28,
+    "YR": 1983
+  },
+  {
+    "ANOM": 0.17,
+    "ClimAdjust": 27.02,
+    "MON": 7,
+    "TOTAL": 27.19,
+    "YR": 1983
+  },
+  {
+    "ANOM": -0.04,
+    "ClimAdjust": 26.64,
+    "MON": 8,
+    "TOTAL": 26.6,
+    "YR": 1983
+  },
+  {
+    "ANOM": -0.36,
+    "ClimAdjust": 26.56,
+    "MON": 9,
+    "TOTAL": 26.2,
+    "YR": 1983
+  },
+  {
+    "ANOM": -0.96,
+    "ClimAdjust": 26.53,
+    "MON": 10,
+    "TOTAL": 25.57,
+    "YR": 1983
+  },
+  {
+    "ANOM": -1.1,
+    "ClimAdjust": 26.52,
+    "MON": 11,
+    "TOTAL": 25.42,
+    "YR": 1983
+  },
+  {
+    "ANOM": -0.94,
+    "ClimAdjust": 26.51,
+    "MON": 12,
+    "TOTAL": 25.58,
+    "YR": 1983
+  },
+  {
+    "ANOM": -0.69,
+    "ClimAdjust": 26.57,
+    "MON": 1,
+    "TOTAL": 25.88,
+    "YR": 1984
+  },
+  {
+    "ANOM": -0.18,
+    "ClimAdjust": 26.75,
+    "MON": 2,
+    "TOTAL": 26.57,
+    "YR": 1984
+  },
+  {
+    "ANOM": -0.39,
+    "ClimAdjust": 27.17,
+    "MON": 3,
+    "TOTAL": 26.78,
+    "YR": 1984
+  },
+  {
+    "ANOM": -0.44,
+    "ClimAdjust": 27.59,
+    "MON": 4,
+    "TOTAL": 27.15,
+    "YR": 1984
+  },
+  {
+    "ANOM": -0.46,
+    "ClimAdjust": 27.66,
+    "MON": 5,
+    "TOTAL": 27.2,
+    "YR": 1984
+  },
+  {
+    "ANOM": -0.63,
+    "ClimAdjust": 27.46,
+    "MON": 6,
+    "TOTAL": 26.83,
+    "YR": 1984
+  },
+  {
+    "ANOM": -0.24,
+    "ClimAdjust": 27.02,
+    "MON": 7,
+    "TOTAL": 26.78,
+    "YR": 1984
+  },
+  {
+    "ANOM": -0.04,
+    "ClimAdjust": 26.64,
+    "MON": 8,
+    "TOTAL": 26.6,
+    "YR": 1984
+  },
+  {
+    "ANOM": -0.19,
+    "ClimAdjust": 26.56,
+    "MON": 9,
+    "TOTAL": 26.38,
+    "YR": 1984
+  },
+  {
+    "ANOM": -0.49,
+    "ClimAdjust": 26.53,
+    "MON": 10,
+    "TOTAL": 26.04,
+    "YR": 1984
+  },
+  {
+    "ANOM": -1.0,
+    "ClimAdjust": 26.52,
+    "MON": 11,
+    "TOTAL": 25.52,
+    "YR": 1984
+  },
+  {
+    "ANOM": -1.25,
+    "ClimAdjust": 26.51,
+    "MON": 12,
+    "TOTAL": 25.26,
+    "YR": 1984
+  },
+  {
+    "ANOM": -1.17,
+    "ClimAdjust": 26.57,
+    "MON": 1,
+    "TOTAL": 25.39,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.71,
+    "ClimAdjust": 26.75,
+    "MON": 2,
+    "TOTAL": 26.04,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.67,
+    "ClimAdjust": 27.17,
+    "MON": 3,
+    "TOTAL": 26.5,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.93,
+    "ClimAdjust": 27.59,
+    "MON": 4,
+    "TOTAL": 26.65,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.75,
+    "ClimAdjust": 27.66,
+    "MON": 5,
+    "TOTAL": 26.91,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.65,
+    "ClimAdjust": 27.46,
+    "MON": 6,
+    "TOTAL": 26.81,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.47,
+    "ClimAdjust": 27.02,
+    "MON": 7,
+    "TOTAL": 26.55,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.35,
+    "ClimAdjust": 26.64,
+    "MON": 8,
+    "TOTAL": 26.29,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.55,
+    "ClimAdjust": 26.56,
+    "MON": 9,
+    "TOTAL": 26.02,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.3,
+    "ClimAdjust": 26.53,
+    "MON": 10,
+    "TOTAL": 26.23,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.2,
+    "ClimAdjust": 26.52,
+    "MON": 11,
+    "TOTAL": 26.33,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.32,
+    "ClimAdjust": 26.51,
+    "MON": 12,
+    "TOTAL": 26.19,
+    "YR": 1985
+  },
+  {
+    "ANOM": -0.56,
+    "ClimAdjust": 26.46,
+    "MON": 1,
+    "TOTAL": 25.89,
+    "YR": 1986
+  },
+  {
+    "ANOM": -0.6,
+    "ClimAdjust": 26.66,
+    "MON": 2,
+    "TOTAL": 26.06,
+    "YR": 1986
+  },
+  {
+    "ANOM": -0.26,
+    "ClimAdjust": 27.14,
+    "MON": 3,
+    "TOTAL": 26.88,
+    "YR": 1986
+  },
+  {
+    "ANOM": -0.08,
+    "ClimAdjust": 27.58,
+    "MON": 4,
+    "TOTAL": 27.49,
+    "YR": 1986
+  },
+  {
+    "ANOM": -0.27,
+    "ClimAdjust": 27.68,
+    "MON": 5,
+    "TOTAL": 27.41,
+    "YR": 1986
+  },
+  {
+    "ANOM": -0.01,
+    "ClimAdjust": 27.43,
+    "MON": 6,
+    "TOTAL": 27.42,
+    "YR": 1986
+  },
+  {
+    "ANOM": 0.17,
+    "ClimAdjust": 27.01,
+    "MON": 7,
+    "TOTAL": 27.18,
+    "YR": 1986
+  },
+  {
+    "ANOM": 0.51,
+    "ClimAdjust": 26.66,
+    "MON": 8,
+    "TOTAL": 27.17,
+    "YR": 1986
+  },
+  {
+    "ANOM": 0.65,
+    "ClimAdjust": 26.59,
+    "MON": 9,
+    "TOTAL": 27.24,
+    "YR": 1986
+  },
+  {
+    "ANOM": 0.98,
+    "ClimAdjust": 26.54,
+    "MON": 10,
+    "TOTAL": 27.51,
+    "YR": 1986
+  },
+  {
+    "ANOM": 1.2,
+    "ClimAdjust": 26.5,
+    "MON": 11,
+    "TOTAL": 27.7,
+    "YR": 1986
+  },
+  {
+    "ANOM": 1.24,
+    "ClimAdjust": 26.47,
+    "MON": 12,
+    "TOTAL": 27.71,
+    "YR": 1986
+  },
+  {
+    "ANOM": 1.22,
+    "ClimAdjust": 26.46,
+    "MON": 1,
+    "TOTAL": 27.68,
+    "YR": 1987
+  },
+  {
+    "ANOM": 1.23,
+    "ClimAdjust": 26.66,
+    "MON": 2,
+    "TOTAL": 27.89,
+    "YR": 1987
+  },
+  {
+    "ANOM": 1.13,
+    "ClimAdjust": 27.14,
+    "MON": 3,
+    "TOTAL": 28.27,
+    "YR": 1987
+  },
+  {
+    "ANOM": 0.82,
+    "ClimAdjust": 27.58,
+    "MON": 4,
+    "TOTAL": 28.4,
+    "YR": 1987
+  },
+  {
+    "ANOM": 0.88,
+    "ClimAdjust": 27.68,
+    "MON": 5,
+    "TOTAL": 28.56,
+    "YR": 1987
+  },
+  {
+    "ANOM": 1.21,
+    "ClimAdjust": 27.43,
+    "MON": 6,
+    "TOTAL": 28.64,
+    "YR": 1987
+  },
+  {
+    "ANOM": 1.57,
+    "ClimAdjust": 27.01,
+    "MON": 7,
+    "TOTAL": 28.58,
+    "YR": 1987
+  },
+  {
+    "ANOM": 1.76,
+    "ClimAdjust": 26.66,
+    "MON": 8,
+    "TOTAL": 28.41,
+    "YR": 1987
+  },
+  {
+    "ANOM": 1.77,
+    "ClimAdjust": 26.59,
+    "MON": 9,
+    "TOTAL": 28.36,
+    "YR": 1987
+  },
+  {
+    "ANOM": 1.42,
+    "ClimAdjust": 26.54,
+    "MON": 10,
+    "TOTAL": 27.95,
+    "YR": 1987
+  },
+  {
+    "ANOM": 1.27,
+    "ClimAdjust": 26.5,
+    "MON": 11,
+    "TOTAL": 27.77,
+    "YR": 1987
+  },
+  {
+    "ANOM": 1.07,
+    "ClimAdjust": 26.47,
+    "MON": 12,
+    "TOTAL": 27.54,
+    "YR": 1987
+  },
+  {
+    "ANOM": 0.99,
+    "ClimAdjust": 26.46,
+    "MON": 1,
+    "TOTAL": 27.45,
+    "YR": 1988
+  },
+  {
+    "ANOM": 0.37,
+    "ClimAdjust": 26.66,
+    "MON": 2,
+    "TOTAL": 27.04,
+    "YR": 1988
+  },
+  {
+    "ANOM": 0.25,
+    "ClimAdjust": 27.14,
+    "MON": 3,
+    "TOTAL": 27.39,
+    "YR": 1988
+  },
+  {
+    "ANOM": -0.19,
+    "ClimAdjust": 27.58,
+    "MON": 4,
+    "TOTAL": 27.38,
+    "YR": 1988
+  },
+  {
+    "ANOM": -1.0,
+    "ClimAdjust": 27.68,
+    "MON": 5,
+    "TOTAL": 26.68,
+    "YR": 1988
+  },
+  {
+    "ANOM": -1.44,
+    "ClimAdjust": 27.43,
+    "MON": 6,
+    "TOTAL": 25.99,
+    "YR": 1988
+  },
+  {
+    "ANOM": -1.45,
+    "ClimAdjust": 27.01,
+    "MON": 7,
+    "TOTAL": 25.56,
+    "YR": 1988
+  },
+  {
+    "ANOM": -0.99,
+    "ClimAdjust": 26.66,
+    "MON": 8,
+    "TOTAL": 25.67,
+    "YR": 1988
+  },
+  {
+    "ANOM": -0.87,
+    "ClimAdjust": 26.59,
+    "MON": 9,
+    "TOTAL": 25.72,
+    "YR": 1988
+  },
+  {
+    "ANOM": -1.71,
+    "ClimAdjust": 26.54,
+    "MON": 10,
+    "TOTAL": 24.82,
+    "YR": 1988
+  },
+  {
+    "ANOM": -1.85,
+    "ClimAdjust": 26.5,
+    "MON": 11,
+    "TOTAL": 24.66,
+    "YR": 1988
+  },
+  {
+    "ANOM": -1.83,
+    "ClimAdjust": 26.47,
+    "MON": 12,
+    "TOTAL": 24.64,
+    "YR": 1988
+  },
+  {
+    "ANOM": -1.87,
+    "ClimAdjust": 26.46,
+    "MON": 1,
+    "TOTAL": 24.59,
+    "YR": 1989
+  },
+  {
+    "ANOM": -1.37,
+    "ClimAdjust": 26.66,
+    "MON": 2,
+    "TOTAL": 25.29,
+    "YR": 1989
+  },
+  {
+    "ANOM": -1.05,
+    "ClimAdjust": 27.14,
+    "MON": 3,
+    "TOTAL": 26.09,
+    "YR": 1989
+  },
+  {
+    "ANOM": -0.82,
+    "ClimAdjust": 27.58,
+    "MON": 4,
+    "TOTAL": 26.75,
+    "YR": 1989
+  },
+  {
+    "ANOM": -0.61,
+    "ClimAdjust": 27.68,
+    "MON": 5,
+    "TOTAL": 27.07,
+    "YR": 1989
+  },
+  {
+    "ANOM": -0.29,
+    "ClimAdjust": 27.43,
+    "MON": 6,
+    "TOTAL": 27.14,
+    "YR": 1989
+  },
+  {
+    "ANOM": -0.3,
+    "ClimAdjust": 27.01,
+    "MON": 7,
+    "TOTAL": 26.71,
+    "YR": 1989
+  },
+  {
+    "ANOM": -0.33,
+    "ClimAdjust": 26.66,
+    "MON": 8,
+    "TOTAL": 26.32,
+    "YR": 1989
+  },
+  {
+    "ANOM": -0.18,
+    "ClimAdjust": 26.59,
+    "MON": 9,
+    "TOTAL": 26.41,
+    "YR": 1989
+  },
+  {
+    "ANOM": -0.22,
+    "ClimAdjust": 26.54,
+    "MON": 10,
+    "TOTAL": 26.32,
+    "YR": 1989
+  },
+  {
+    "ANOM": -0.25,
+    "ClimAdjust": 26.5,
+    "MON": 11,
+    "TOTAL": 26.25,
+    "YR": 1989
+  },
+  {
+    "ANOM": -0.01,
+    "ClimAdjust": 26.47,
+    "MON": 12,
+    "TOTAL": 26.46,
+    "YR": 1989
+  },
+  {
+    "ANOM": 0.11,
+    "ClimAdjust": 26.46,
+    "MON": 1,
+    "TOTAL": 26.56,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.31,
+    "ClimAdjust": 26.66,
+    "MON": 2,
+    "TOTAL": 26.98,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.2,
+    "ClimAdjust": 27.14,
+    "MON": 3,
+    "TOTAL": 27.34,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.33,
+    "ClimAdjust": 27.58,
+    "MON": 4,
+    "TOTAL": 27.9,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.34,
+    "ClimAdjust": 27.68,
+    "MON": 5,
+    "TOTAL": 28.02,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.21,
+    "ClimAdjust": 27.43,
+    "MON": 6,
+    "TOTAL": 27.65,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.37,
+    "ClimAdjust": 27.01,
+    "MON": 7,
+    "TOTAL": 27.38,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.42,
+    "ClimAdjust": 26.66,
+    "MON": 8,
+    "TOTAL": 27.07,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.35,
+    "ClimAdjust": 26.59,
+    "MON": 9,
+    "TOTAL": 26.94,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.4,
+    "ClimAdjust": 26.54,
+    "MON": 10,
+    "TOTAL": 26.93,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.31,
+    "ClimAdjust": 26.5,
+    "MON": 11,
+    "TOTAL": 26.81,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.48,
+    "ClimAdjust": 26.47,
+    "MON": 12,
+    "TOTAL": 26.96,
+    "YR": 1990
+  },
+  {
+    "ANOM": 0.45,
+    "ClimAdjust": 26.59,
+    "MON": 1,
+    "TOTAL": 27.04,
+    "YR": 1991
+  },
+  {
+    "ANOM": 0.29,
+    "ClimAdjust": 26.79,
+    "MON": 2,
+    "TOTAL": 27.08,
+    "YR": 1991
+  },
+  {
+    "ANOM": 0.05,
+    "ClimAdjust": 27.28,
+    "MON": 3,
+    "TOTAL": 27.33,
+    "YR": 1991
+  },
+  {
+    "ANOM": 0.32,
+    "ClimAdjust": 27.7,
+    "MON": 4,
+    "TOTAL": 28.02,
+    "YR": 1991
+  },
+  {
+    "ANOM": 0.4,
+    "ClimAdjust": 27.8,
+    "MON": 5,
+    "TOTAL": 28.2,
+    "YR": 1991
+  },
+  {
+    "ANOM": 0.65,
+    "ClimAdjust": 27.6,
+    "MON": 6,
+    "TOTAL": 28.25,
+    "YR": 1991
+  },
+  {
+    "ANOM": 0.86,
+    "ClimAdjust": 27.19,
+    "MON": 7,
+    "TOTAL": 28.05,
+    "YR": 1991
+  },
+  {
+    "ANOM": 0.69,
+    "ClimAdjust": 26.84,
+    "MON": 8,
+    "TOTAL": 27.53,
+    "YR": 1991
+  },
+  {
+    "ANOM": 0.36,
+    "ClimAdjust": 26.78,
+    "MON": 9,
+    "TOTAL": 27.14,
+    "YR": 1991
+  },
+  {
+    "ANOM": 0.82,
+    "ClimAdjust": 26.76,
+    "MON": 10,
+    "TOTAL": 27.58,
+    "YR": 1991
+  },
+  {
+    "ANOM": 1.19,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 27.89,
+    "YR": 1991
+  },
+  {
+    "ANOM": 1.62,
+    "ClimAdjust": 26.66,
+    "MON": 12,
+    "TOTAL": 28.28,
+    "YR": 1991
+  },
+  {
+    "ANOM": 1.78,
+    "ClimAdjust": 26.59,
+    "MON": 1,
+    "TOTAL": 28.37,
+    "YR": 1992
+  },
+  {
+    "ANOM": 1.74,
+    "ClimAdjust": 26.79,
+    "MON": 2,
+    "TOTAL": 28.53,
+    "YR": 1992
+  },
+  {
+    "ANOM": 1.38,
+    "ClimAdjust": 27.28,
+    "MON": 3,
+    "TOTAL": 28.66,
+    "YR": 1992
+  },
+  {
+    "ANOM": 1.32,
+    "ClimAdjust": 27.7,
+    "MON": 4,
+    "TOTAL": 29.02,
+    "YR": 1992
+  },
+  {
+    "ANOM": 1.16,
+    "ClimAdjust": 27.8,
+    "MON": 5,
+    "TOTAL": 28.97,
+    "YR": 1992
+  },
+  {
+    "ANOM": 0.7,
+    "ClimAdjust": 27.6,
+    "MON": 6,
+    "TOTAL": 28.3,
+    "YR": 1992
+  },
+  {
+    "ANOM": 0.33,
+    "ClimAdjust": 27.19,
+    "MON": 7,
+    "TOTAL": 27.51,
+    "YR": 1992
+  },
+  {
+    "ANOM": 0.07,
+    "ClimAdjust": 26.84,
+    "MON": 8,
+    "TOTAL": 26.91,
+    "YR": 1992
+  },
+  {
+    "ANOM": -0.13,
+    "ClimAdjust": 26.78,
+    "MON": 9,
+    "TOTAL": 26.66,
+    "YR": 1992
+  },
+  {
+    "ANOM": -0.34,
+    "ClimAdjust": 26.76,
+    "MON": 10,
+    "TOTAL": 26.42,
+    "YR": 1992
+  },
+  {
+    "ANOM": -0.28,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 26.42,
+    "YR": 1992
+  },
+  {
+    "ANOM": -0.21,
+    "ClimAdjust": 26.66,
+    "MON": 12,
+    "TOTAL": 26.45,
+    "YR": 1992
+  },
+  {
+    "ANOM": 0.1,
+    "ClimAdjust": 26.59,
+    "MON": 1,
+    "TOTAL": 26.7,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.38,
+    "ClimAdjust": 26.79,
+    "MON": 2,
+    "TOTAL": 27.17,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.4,
+    "ClimAdjust": 27.28,
+    "MON": 3,
+    "TOTAL": 27.68,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.71,
+    "ClimAdjust": 27.7,
+    "MON": 4,
+    "TOTAL": 28.41,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.91,
+    "ClimAdjust": 27.8,
+    "MON": 5,
+    "TOTAL": 28.71,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.48,
+    "ClimAdjust": 27.6,
+    "MON": 6,
+    "TOTAL": 28.08,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.33,
+    "ClimAdjust": 27.19,
+    "MON": 7,
+    "TOTAL": 27.52,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.15,
+    "ClimAdjust": 26.84,
+    "MON": 8,
+    "TOTAL": 26.99,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.29,
+    "ClimAdjust": 26.78,
+    "MON": 9,
+    "TOTAL": 27.07,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.02,
+    "ClimAdjust": 26.76,
+    "MON": 10,
+    "TOTAL": 26.78,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.01,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 26.71,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.1,
+    "ClimAdjust": 26.66,
+    "MON": 12,
+    "TOTAL": 26.76,
+    "YR": 1993
+  },
+  {
+    "ANOM": 0.06,
+    "ClimAdjust": 26.59,
+    "MON": 1,
+    "TOTAL": 26.65,
+    "YR": 1994
+  },
+  {
+    "ANOM": 0.03,
+    "ClimAdjust": 26.79,
+    "MON": 2,
+    "TOTAL": 26.82,
+    "YR": 1994
+  },
+  {
+    "ANOM": 0.11,
+    "ClimAdjust": 27.28,
+    "MON": 3,
+    "TOTAL": 27.39,
+    "YR": 1994
+  },
+  {
+    "ANOM": 0.38,
+    "ClimAdjust": 27.7,
+    "MON": 4,
+    "TOTAL": 28.08,
+    "YR": 1994
+  },
+  {
+    "ANOM": 0.43,
+    "ClimAdjust": 27.8,
+    "MON": 5,
+    "TOTAL": 28.24,
+    "YR": 1994
+  },
+  {
+    "ANOM": 0.44,
+    "ClimAdjust": 27.6,
+    "MON": 6,
+    "TOTAL": 28.04,
+    "YR": 1994
+  },
+  {
+    "ANOM": 0.35,
+    "ClimAdjust": 27.19,
+    "MON": 7,
+    "TOTAL": 27.54,
+    "YR": 1994
+  },
+  {
+    "ANOM": 0.54,
+    "ClimAdjust": 26.84,
+    "MON": 8,
+    "TOTAL": 27.38,
+    "YR": 1994
+  },
+  {
+    "ANOM": 0.41,
+    "ClimAdjust": 26.78,
+    "MON": 9,
+    "TOTAL": 27.19,
+    "YR": 1994
+  },
+  {
+    "ANOM": 0.71,
+    "ClimAdjust": 26.76,
+    "MON": 10,
+    "TOTAL": 27.47,
+    "YR": 1994
+  },
+  {
+    "ANOM": 1.11,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 27.81,
+    "YR": 1994
+  },
+  {
+    "ANOM": 1.19,
+    "ClimAdjust": 26.66,
+    "MON": 12,
+    "TOTAL": 27.85,
+    "YR": 1994
+  },
+  {
+    "ANOM": 0.98,
+    "ClimAdjust": 26.59,
+    "MON": 1,
+    "TOTAL": 27.57,
+    "YR": 1995
+  },
+  {
+    "ANOM": 0.71,
+    "ClimAdjust": 26.79,
+    "MON": 2,
+    "TOTAL": 27.49,
+    "YR": 1995
+  },
+  {
+    "ANOM": 0.48,
+    "ClimAdjust": 27.28,
+    "MON": 3,
+    "TOTAL": 27.76,
+    "YR": 1995
+  },
+  {
+    "ANOM": 0.41,
+    "ClimAdjust": 27.7,
+    "MON": 4,
+    "TOTAL": 28.11,
+    "YR": 1995
+  },
+  {
+    "ANOM": 0.02,
+    "ClimAdjust": 27.8,
+    "MON": 5,
+    "TOTAL": 27.83,
+    "YR": 1995
+  },
+  {
+    "ANOM": -0.01,
+    "ClimAdjust": 27.6,
+    "MON": 6,
+    "TOTAL": 27.59,
+    "YR": 1995
+  },
+  {
+    "ANOM": -0.11,
+    "ClimAdjust": 27.19,
+    "MON": 7,
+    "TOTAL": 27.08,
+    "YR": 1995
+  },
+  {
+    "ANOM": -0.61,
+    "ClimAdjust": 26.84,
+    "MON": 8,
+    "TOTAL": 26.23,
+    "YR": 1995
+  },
+  {
+    "ANOM": -0.9,
+    "ClimAdjust": 26.78,
+    "MON": 9,
+    "TOTAL": 25.88,
+    "YR": 1995
+  },
+  {
+    "ANOM": -0.92,
+    "ClimAdjust": 26.76,
+    "MON": 10,
+    "TOTAL": 25.84,
+    "YR": 1995
+  },
+  {
+    "ANOM": -1.1,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 25.61,
+    "YR": 1995
+  },
+  {
+    "ANOM": -1.0,
+    "ClimAdjust": 26.66,
+    "MON": 12,
+    "TOTAL": 25.66,
+    "YR": 1995
+  },
+  {
+    "ANOM": -0.86,
+    "ClimAdjust": 26.56,
+    "MON": 1,
+    "TOTAL": 25.7,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.85,
+    "ClimAdjust": 26.75,
+    "MON": 2,
+    "TOTAL": 25.91,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.56,
+    "ClimAdjust": 27.24,
+    "MON": 3,
+    "TOTAL": 26.69,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.36,
+    "ClimAdjust": 27.72,
+    "MON": 4,
+    "TOTAL": 27.36,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.26,
+    "ClimAdjust": 27.81,
+    "MON": 5,
+    "TOTAL": 27.55,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.3,
+    "ClimAdjust": 27.59,
+    "MON": 6,
+    "TOTAL": 27.29,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.32,
+    "ClimAdjust": 27.18,
+    "MON": 7,
+    "TOTAL": 26.85,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.2,
+    "ClimAdjust": 26.83,
+    "MON": 8,
+    "TOTAL": 26.64,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.45,
+    "ClimAdjust": 26.73,
+    "MON": 9,
+    "TOTAL": 26.27,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.4,
+    "ClimAdjust": 26.67,
+    "MON": 10,
+    "TOTAL": 26.27,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.34,
+    "ClimAdjust": 26.63,
+    "MON": 11,
+    "TOTAL": 26.29,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.61,
+    "ClimAdjust": 26.56,
+    "MON": 12,
+    "TOTAL": 25.96,
+    "YR": 1996
+  },
+  {
+    "ANOM": -0.54,
+    "ClimAdjust": 26.56,
+    "MON": 1,
+    "TOTAL": 26.02,
+    "YR": 1997
+  },
+  {
+    "ANOM": -0.36,
+    "ClimAdjust": 26.75,
+    "MON": 2,
+    "TOTAL": 26.39,
+    "YR": 1997
+  },
+  {
+    "ANOM": -0.2,
+    "ClimAdjust": 27.24,
+    "MON": 3,
+    "TOTAL": 27.05,
+    "YR": 1997
+  },
+  {
+    "ANOM": 0.27,
+    "ClimAdjust": 27.72,
+    "MON": 4,
+    "TOTAL": 27.99,
+    "YR": 1997
+  },
+  {
+    "ANOM": 0.76,
+    "ClimAdjust": 27.81,
+    "MON": 5,
+    "TOTAL": 28.58,
+    "YR": 1997
+  },
+  {
+    "ANOM": 1.22,
+    "ClimAdjust": 27.59,
+    "MON": 6,
+    "TOTAL": 28.81,
+    "YR": 1997
+  },
+  {
+    "ANOM": 1.67,
+    "ClimAdjust": 27.18,
+    "MON": 7,
+    "TOTAL": 28.85,
+    "YR": 1997
+  },
+  {
+    "ANOM": 1.91,
+    "ClimAdjust": 26.83,
+    "MON": 8,
+    "TOTAL": 28.74,
+    "YR": 1997
+  },
+  {
+    "ANOM": 2.12,
+    "ClimAdjust": 26.73,
+    "MON": 9,
+    "TOTAL": 28.84,
+    "YR": 1997
+  },
+  {
+    "ANOM": 2.4,
+    "ClimAdjust": 26.67,
+    "MON": 10,
+    "TOTAL": 29.07,
+    "YR": 1997
+  },
+  {
+    "ANOM": 2.48,
+    "ClimAdjust": 26.63,
+    "MON": 11,
+    "TOTAL": 29.11,
+    "YR": 1997
+  },
+  {
+    "ANOM": 2.32,
+    "ClimAdjust": 26.56,
+    "MON": 12,
+    "TOTAL": 28.89,
+    "YR": 1997
+  },
+  {
+    "ANOM": 2.37,
+    "ClimAdjust": 26.56,
+    "MON": 1,
+    "TOTAL": 28.93,
+    "YR": 1998
+  },
+  {
+    "ANOM": 2.03,
+    "ClimAdjust": 26.75,
+    "MON": 2,
+    "TOTAL": 28.79,
+    "YR": 1998
+  },
+  {
+    "ANOM": 1.38,
+    "ClimAdjust": 27.24,
+    "MON": 3,
+    "TOTAL": 28.63,
+    "YR": 1998
+  },
+  {
+    "ANOM": 0.9,
+    "ClimAdjust": 27.72,
+    "MON": 4,
+    "TOTAL": 28.61,
+    "YR": 1998
+  },
+  {
+    "ANOM": 0.7,
+    "ClimAdjust": 27.81,
+    "MON": 5,
+    "TOTAL": 28.52,
+    "YR": 1998
+  },
+  {
+    "ANOM": -0.24,
+    "ClimAdjust": 27.59,
+    "MON": 6,
+    "TOTAL": 27.35,
+    "YR": 1998
+  },
+  {
+    "ANOM": -0.86,
+    "ClimAdjust": 27.18,
+    "MON": 7,
+    "TOTAL": 26.32,
+    "YR": 1998
+  },
+  {
+    "ANOM": -1.25,
+    "ClimAdjust": 26.83,
+    "MON": 8,
+    "TOTAL": 25.59,
+    "YR": 1998
+  },
+  {
+    "ANOM": -1.26,
+    "ClimAdjust": 26.73,
+    "MON": 9,
+    "TOTAL": 25.47,
+    "YR": 1998
+  },
+  {
+    "ANOM": -1.41,
+    "ClimAdjust": 26.67,
+    "MON": 10,
+    "TOTAL": 25.26,
+    "YR": 1998
+  },
+  {
+    "ANOM": -1.38,
+    "ClimAdjust": 26.63,
+    "MON": 11,
+    "TOTAL": 25.25,
+    "YR": 1998
+  },
+  {
+    "ANOM": -1.64,
+    "ClimAdjust": 26.56,
+    "MON": 12,
+    "TOTAL": 24.92,
+    "YR": 1998
+  },
+  {
+    "ANOM": -1.69,
+    "ClimAdjust": 26.56,
+    "MON": 1,
+    "TOTAL": 24.87,
+    "YR": 1999
+  },
+  {
+    "ANOM": -1.31,
+    "ClimAdjust": 26.75,
+    "MON": 2,
+    "TOTAL": 25.44,
+    "YR": 1999
+  },
+  {
+    "ANOM": -0.9,
+    "ClimAdjust": 27.24,
+    "MON": 3,
+    "TOTAL": 26.34,
+    "YR": 1999
+  },
+  {
+    "ANOM": -1.0,
+    "ClimAdjust": 27.72,
+    "MON": 4,
+    "TOTAL": 26.71,
+    "YR": 1999
+  },
+  {
+    "ANOM": -1.02,
+    "ClimAdjust": 27.81,
+    "MON": 5,
+    "TOTAL": 26.79,
+    "YR": 1999
+  },
+  {
+    "ANOM": -1.05,
+    "ClimAdjust": 27.59,
+    "MON": 6,
+    "TOTAL": 26.54,
+    "YR": 1999
+  },
+  {
+    "ANOM": -1.05,
+    "ClimAdjust": 27.18,
+    "MON": 7,
+    "TOTAL": 26.13,
+    "YR": 1999
+  },
+  {
+    "ANOM": -1.19,
+    "ClimAdjust": 26.83,
+    "MON": 8,
+    "TOTAL": 25.64,
+    "YR": 1999
+  },
+  {
+    "ANOM": -1.09,
+    "ClimAdjust": 26.73,
+    "MON": 9,
+    "TOTAL": 25.63,
+    "YR": 1999
+  },
+  {
+    "ANOM": -1.19,
+    "ClimAdjust": 26.67,
+    "MON": 10,
+    "TOTAL": 25.48,
+    "YR": 1999
+  },
+  {
+    "ANOM": -1.5,
+    "ClimAdjust": 26.63,
+    "MON": 11,
+    "TOTAL": 25.13,
+    "YR": 1999
+  },
+  {
+    "ANOM": -1.7,
+    "ClimAdjust": 26.56,
+    "MON": 12,
+    "TOTAL": 24.87,
+    "YR": 1999
+  },
+  {
+    "ANOM": -1.77,
+    "ClimAdjust": 26.56,
+    "MON": 1,
+    "TOTAL": 24.79,
+    "YR": 2000
+  },
+  {
+    "ANOM": -1.53,
+    "ClimAdjust": 26.75,
+    "MON": 2,
+    "TOTAL": 25.23,
+    "YR": 2000
+  },
+  {
+    "ANOM": -0.93,
+    "ClimAdjust": 27.24,
+    "MON": 3,
+    "TOTAL": 26.31,
+    "YR": 2000
+  },
+  {
+    "ANOM": -0.75,
+    "ClimAdjust": 27.72,
+    "MON": 4,
+    "TOTAL": 26.96,
+    "YR": 2000
+  },
+  {
+    "ANOM": -0.74,
+    "ClimAdjust": 27.81,
+    "MON": 5,
+    "TOTAL": 27.08,
+    "YR": 2000
+  },
+  {
+    "ANOM": -0.64,
+    "ClimAdjust": 27.59,
+    "MON": 6,
+    "TOTAL": 26.95,
+    "YR": 2000
+  },
+  {
+    "ANOM": -0.55,
+    "ClimAdjust": 27.18,
+    "MON": 7,
+    "TOTAL": 26.63,
+    "YR": 2000
+  },
+  {
+    "ANOM": -0.47,
+    "ClimAdjust": 26.83,
+    "MON": 8,
+    "TOTAL": 26.37,
+    "YR": 2000
+  },
+  {
+    "ANOM": -0.52,
+    "ClimAdjust": 26.73,
+    "MON": 9,
+    "TOTAL": 26.2,
+    "YR": 2000
+  },
+  {
+    "ANOM": -0.65,
+    "ClimAdjust": 26.67,
+    "MON": 10,
+    "TOTAL": 26.02,
+    "YR": 2000
+  },
+  {
+    "ANOM": -0.71,
+    "ClimAdjust": 26.63,
+    "MON": 11,
+    "TOTAL": 25.92,
+    "YR": 2000
+  },
+  {
+    "ANOM": -0.88,
+    "ClimAdjust": 26.56,
+    "MON": 12,
+    "TOTAL": 25.69,
+    "YR": 2000
+  },
+  {
+    "ANOM": -0.63,
+    "ClimAdjust": 26.45,
+    "MON": 1,
+    "TOTAL": 25.82,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.53,
+    "ClimAdjust": 26.66,
+    "MON": 2,
+    "TOTAL": 26.14,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.39,
+    "ClimAdjust": 27.21,
+    "MON": 3,
+    "TOTAL": 26.82,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.39,
+    "ClimAdjust": 27.73,
+    "MON": 4,
+    "TOTAL": 27.34,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.24,
+    "ClimAdjust": 27.85,
+    "MON": 5,
+    "TOTAL": 27.6,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.11,
+    "ClimAdjust": 27.65,
+    "MON": 6,
+    "TOTAL": 27.54,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.01,
+    "ClimAdjust": 27.26,
+    "MON": 7,
+    "TOTAL": 27.25,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.1,
+    "ClimAdjust": 26.91,
+    "MON": 8,
+    "TOTAL": 26.8,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.28,
+    "ClimAdjust": 26.8,
+    "MON": 9,
+    "TOTAL": 26.52,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.18,
+    "ClimAdjust": 26.75,
+    "MON": 10,
+    "TOTAL": 26.57,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.41,
+    "ClimAdjust": 26.75,
+    "MON": 11,
+    "TOTAL": 26.34,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.46,
+    "ClimAdjust": 26.65,
+    "MON": 12,
+    "TOTAL": 26.2,
+    "YR": 2001
+  },
+  {
+    "ANOM": -0.05,
+    "ClimAdjust": 26.45,
+    "MON": 1,
+    "TOTAL": 26.4,
+    "YR": 2002
+  },
+  {
+    "ANOM": 0.06,
+    "ClimAdjust": 26.66,
+    "MON": 2,
+    "TOTAL": 26.72,
+    "YR": 2002
+  },
+  {
+    "ANOM": 0.09,
+    "ClimAdjust": 27.21,
+    "MON": 3,
+    "TOTAL": 27.3,
+    "YR": 2002
+  },
+  {
+    "ANOM": 0.12,
+    "ClimAdjust": 27.73,
+    "MON": 4,
+    "TOTAL": 27.85,
+    "YR": 2002
+  },
+  {
+    "ANOM": 0.4,
+    "ClimAdjust": 27.85,
+    "MON": 5,
+    "TOTAL": 28.24,
+    "YR": 2002
+  },
+  {
+    "ANOM": 0.79,
+    "ClimAdjust": 27.65,
+    "MON": 6,
+    "TOTAL": 28.44,
+    "YR": 2002
+  },
+  {
+    "ANOM": 0.77,
+    "ClimAdjust": 27.26,
+    "MON": 7,
+    "TOTAL": 28.03,
+    "YR": 2002
+  },
+  {
+    "ANOM": 0.81,
+    "ClimAdjust": 26.91,
+    "MON": 8,
+    "TOTAL": 27.72,
+    "YR": 2002
+  },
+  {
+    "ANOM": 1.01,
+    "ClimAdjust": 26.8,
+    "MON": 9,
+    "TOTAL": 27.81,
+    "YR": 2002
+  },
+  {
+    "ANOM": 1.2,
+    "ClimAdjust": 26.75,
+    "MON": 10,
+    "TOTAL": 27.96,
+    "YR": 2002
+  },
+  {
+    "ANOM": 1.41,
+    "ClimAdjust": 26.75,
+    "MON": 11,
+    "TOTAL": 28.16,
+    "YR": 2002
+  },
+  {
+    "ANOM": 1.31,
+    "ClimAdjust": 26.65,
+    "MON": 12,
+    "TOTAL": 27.97,
+    "YR": 2002
+  },
+  {
+    "ANOM": 0.7,
+    "ClimAdjust": 26.45,
+    "MON": 1,
+    "TOTAL": 27.16,
+    "YR": 2003
+  },
+  {
+    "ANOM": 0.74,
+    "ClimAdjust": 26.66,
+    "MON": 2,
+    "TOTAL": 27.4,
+    "YR": 2003
+  },
+  {
+    "ANOM": 0.45,
+    "ClimAdjust": 27.21,
+    "MON": 3,
+    "TOTAL": 27.66,
+    "YR": 2003
+  },
+  {
+    "ANOM": -0.05,
+    "ClimAdjust": 27.73,
+    "MON": 4,
+    "TOTAL": 27.69,
+    "YR": 2003
+  },
+  {
+    "ANOM": -0.52,
+    "ClimAdjust": 27.85,
+    "MON": 5,
+    "TOTAL": 27.32,
+    "YR": 2003
+  },
+  {
+    "ANOM": -0.21,
+    "ClimAdjust": 27.65,
+    "MON": 6,
+    "TOTAL": 27.44,
+    "YR": 2003
+  },
+  {
+    "ANOM": 0.24,
+    "ClimAdjust": 27.26,
+    "MON": 7,
+    "TOTAL": 27.5,
+    "YR": 2003
+  },
+  {
+    "ANOM": 0.2,
+    "ClimAdjust": 26.91,
+    "MON": 8,
+    "TOTAL": 27.11,
+    "YR": 2003
+  },
+  {
+    "ANOM": 0.19,
+    "ClimAdjust": 26.8,
+    "MON": 9,
+    "TOTAL": 26.98,
+    "YR": 2003
+  },
+  {
+    "ANOM": 0.38,
+    "ClimAdjust": 26.75,
+    "MON": 10,
+    "TOTAL": 27.14,
+    "YR": 2003
+  },
+  {
+    "ANOM": 0.29,
+    "ClimAdjust": 26.75,
+    "MON": 11,
+    "TOTAL": 27.04,
+    "YR": 2003
+  },
+  {
+    "ANOM": 0.38,
+    "ClimAdjust": 26.65,
+    "MON": 12,
+    "TOTAL": 27.04,
+    "YR": 2003
+  },
+  {
+    "ANOM": 0.38,
+    "ClimAdjust": 26.45,
+    "MON": 1,
+    "TOTAL": 26.83,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.34,
+    "ClimAdjust": 26.66,
+    "MON": 2,
+    "TOTAL": 27.0,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.21,
+    "ClimAdjust": 27.21,
+    "MON": 3,
+    "TOTAL": 27.41,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.16,
+    "ClimAdjust": 27.73,
+    "MON": 4,
+    "TOTAL": 27.89,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.14,
+    "ClimAdjust": 27.85,
+    "MON": 5,
+    "TOTAL": 27.99,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.2,
+    "ClimAdjust": 27.65,
+    "MON": 6,
+    "TOTAL": 27.85,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.51,
+    "ClimAdjust": 27.26,
+    "MON": 7,
+    "TOTAL": 27.77,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.7,
+    "ClimAdjust": 26.91,
+    "MON": 8,
+    "TOTAL": 27.6,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.72,
+    "ClimAdjust": 26.8,
+    "MON": 9,
+    "TOTAL": 27.52,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.68,
+    "ClimAdjust": 26.75,
+    "MON": 10,
+    "TOTAL": 27.44,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.61,
+    "ClimAdjust": 26.75,
+    "MON": 11,
+    "TOTAL": 27.36,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.69,
+    "ClimAdjust": 26.65,
+    "MON": 12,
+    "TOTAL": 27.34,
+    "YR": 2004
+  },
+  {
+    "ANOM": 0.76,
+    "ClimAdjust": 26.45,
+    "MON": 1,
+    "TOTAL": 27.21,
+    "YR": 2005
+  },
+  {
+    "ANOM": 0.46,
+    "ClimAdjust": 26.66,
+    "MON": 2,
+    "TOTAL": 27.12,
+    "YR": 2005
+  },
+  {
+    "ANOM": 0.53,
+    "ClimAdjust": 27.21,
+    "MON": 3,
+    "TOTAL": 27.74,
+    "YR": 2005
+  },
+  {
+    "ANOM": 0.35,
+    "ClimAdjust": 27.73,
+    "MON": 4,
+    "TOTAL": 28.09,
+    "YR": 2005
+  },
+  {
+    "ANOM": 0.39,
+    "ClimAdjust": 27.85,
+    "MON": 5,
+    "TOTAL": 28.24,
+    "YR": 2005
+  },
+  {
+    "ANOM": 0.12,
+    "ClimAdjust": 27.65,
+    "MON": 6,
+    "TOTAL": 27.77,
+    "YR": 2005
+  },
+  {
+    "ANOM": -0.19,
+    "ClimAdjust": 27.26,
+    "MON": 7,
+    "TOTAL": 27.07,
+    "YR": 2005
+  },
+  {
+    "ANOM": -0.1,
+    "ClimAdjust": 26.91,
+    "MON": 8,
+    "TOTAL": 26.8,
+    "YR": 2005
+  },
+  {
+    "ANOM": -0.11,
+    "ClimAdjust": 26.8,
+    "MON": 9,
+    "TOTAL": 26.68,
+    "YR": 2005
+  },
+  {
+    "ANOM": -0.1,
+    "ClimAdjust": 26.75,
+    "MON": 10,
+    "TOTAL": 26.65,
+    "YR": 2005
+  },
+  {
+    "ANOM": -0.64,
+    "ClimAdjust": 26.75,
+    "MON": 11,
+    "TOTAL": 26.11,
+    "YR": 2005
+  },
+  {
+    "ANOM": -0.97,
+    "ClimAdjust": 26.65,
+    "MON": 12,
+    "TOTAL": 25.68,
+    "YR": 2005
+  },
+  {
+    "ANOM": -0.91,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 25.64,
+    "YR": 2006
+  },
+  {
+    "ANOM": -0.67,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 26.09,
+    "YR": 2006
+  },
+  {
+    "ANOM": -0.71,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 26.58,
+    "YR": 2006
+  },
+  {
+    "ANOM": -0.32,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 27.51,
+    "YR": 2006
+  },
+  {
+    "ANOM": -0.09,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 27.85,
+    "YR": 2006
+  },
+  {
+    "ANOM": 0.0,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.73,
+    "YR": 2006
+  },
+  {
+    "ANOM": 0.01,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 27.3,
+    "YR": 2006
+  },
+  {
+    "ANOM": 0.31,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 27.16,
+    "YR": 2006
+  },
+  {
+    "ANOM": 0.6,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 27.32,
+    "YR": 2006
+  },
+  {
+    "ANOM": 0.7,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 27.42,
+    "YR": 2006
+  },
+  {
+    "ANOM": 0.99,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 27.7,
+    "YR": 2006
+  },
+  {
+    "ANOM": 1.14,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 27.74,
+    "YR": 2006
+  },
+  {
+    "ANOM": 0.7,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 27.25,
+    "YR": 2007
+  },
+  {
+    "ANOM": 0.13,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 26.9,
+    "YR": 2007
+  },
+  {
+    "ANOM": -0.18,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 27.12,
+    "YR": 2007
+  },
+  {
+    "ANOM": -0.31,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 27.51,
+    "YR": 2007
+  },
+  {
+    "ANOM": -0.47,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 27.46,
+    "YR": 2007
+  },
+  {
+    "ANOM": -0.36,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.37,
+    "YR": 2007
+  },
+  {
+    "ANOM": -0.59,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 26.7,
+    "YR": 2007
+  },
+  {
+    "ANOM": -0.72,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 26.13,
+    "YR": 2007
+  },
+  {
+    "ANOM": -1.11,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 25.61,
+    "YR": 2007
+  },
+  {
+    "ANOM": -1.39,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 25.33,
+    "YR": 2007
+  },
+  {
+    "ANOM": -1.53,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 25.17,
+    "YR": 2007
+  },
+  {
+    "ANOM": -1.58,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 25.02,
+    "YR": 2007
+  },
+  {
+    "ANOM": -1.68,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 24.87,
+    "YR": 2008
+  },
+  {
+    "ANOM": -1.66,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 25.1,
+    "YR": 2008
+  },
+  {
+    "ANOM": -1.21,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 26.09,
+    "YR": 2008
+  },
+  {
+    "ANOM": -0.99,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 26.84,
+    "YR": 2008
+  },
+  {
+    "ANOM": -0.84,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 27.09,
+    "YR": 2008
+  },
+  {
+    "ANOM": -0.68,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.04,
+    "YR": 2008
+  },
+  {
+    "ANOM": -0.3,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 26.99,
+    "YR": 2008
+  },
+  {
+    "ANOM": -0.13,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 26.72,
+    "YR": 2008
+  },
+  {
+    "ANOM": -0.25,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 26.47,
+    "YR": 2008
+  },
+  {
+    "ANOM": -0.35,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 26.37,
+    "YR": 2008
+  },
+  {
+    "ANOM": -0.46,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 26.25,
+    "YR": 2008
+  },
+  {
+    "ANOM": -0.86,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 25.74,
+    "YR": 2008
+  },
+  {
+    "ANOM": -0.89,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 25.67,
+    "YR": 2009
+  },
+  {
+    "ANOM": -0.79,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 25.97,
+    "YR": 2009
+  },
+  {
+    "ANOM": -0.7,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 26.6,
+    "YR": 2009
+  },
+  {
+    "ANOM": -0.35,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 27.48,
+    "YR": 2009
+  },
+  {
+    "ANOM": 0.06,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 27.99,
+    "YR": 2009
+  },
+  {
+    "ANOM": 0.31,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 28.04,
+    "YR": 2009
+  },
+  {
+    "ANOM": 0.48,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 27.77,
+    "YR": 2009
+  },
+  {
+    "ANOM": 0.56,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 27.42,
+    "YR": 2009
+  },
+  {
+    "ANOM": 0.68,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 27.4,
+    "YR": 2009
+  },
+  {
+    "ANOM": 0.89,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 27.61,
+    "YR": 2009
+  },
+  {
+    "ANOM": 1.45,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 28.15,
+    "YR": 2009
+  },
+  {
+    "ANOM": 1.73,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 28.33,
+    "YR": 2009
+  },
+  {
+    "ANOM": 1.51,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 28.06,
+    "YR": 2010
+  },
+  {
+    "ANOM": 1.25,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 28.01,
+    "YR": 2010
+  },
+  {
+    "ANOM": 0.9,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 28.19,
+    "YR": 2010
+  },
+  {
+    "ANOM": 0.38,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 28.21,
+    "YR": 2010
+  },
+  {
+    "ANOM": -0.22,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 27.72,
+    "YR": 2010
+  },
+  {
+    "ANOM": -0.69,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.04,
+    "YR": 2010
+  },
+  {
+    "ANOM": -1.07,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 26.22,
+    "YR": 2010
+  },
+  {
+    "ANOM": -1.38,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 25.47,
+    "YR": 2010
+  },
+  {
+    "ANOM": -1.59,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 25.12,
+    "YR": 2010
+  },
+  {
+    "ANOM": -1.69,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 25.03,
+    "YR": 2010
+  },
+  {
+    "ANOM": -1.64,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 25.06,
+    "YR": 2010
+  },
+  {
+    "ANOM": -1.6,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 25.0,
+    "YR": 2010
+  },
+  {
+    "ANOM": -1.54,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 25.01,
+    "YR": 2011
+  },
+  {
+    "ANOM": -1.11,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 25.66,
+    "YR": 2011
+  },
+  {
+    "ANOM": -0.92,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 26.38,
+    "YR": 2011
+  },
+  {
+    "ANOM": -0.76,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 27.07,
+    "YR": 2011
+  },
+  {
+    "ANOM": -0.52,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 27.41,
+    "YR": 2011
+  },
+  {
+    "ANOM": -0.38,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.35,
+    "YR": 2011
+  },
+  {
+    "ANOM": -0.42,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 26.87,
+    "YR": 2011
+  },
+  {
+    "ANOM": -0.64,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 26.21,
+    "YR": 2011
+  },
+  {
+    "ANOM": -0.8,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 25.92,
+    "YR": 2011
+  },
+  {
+    "ANOM": -1.05,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 25.67,
+    "YR": 2011
+  },
+  {
+    "ANOM": -1.18,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 25.52,
+    "YR": 2011
+  },
+  {
+    "ANOM": -1.05,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 25.55,
+    "YR": 2011
+  },
+  {
+    "ANOM": -0.87,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 25.68,
+    "YR": 2012
+  },
+  {
+    "ANOM": -0.67,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 26.1,
+    "YR": 2012
+  },
+  {
+    "ANOM": -0.61,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 26.69,
+    "YR": 2012
+  },
+  {
+    "ANOM": -0.49,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 27.33,
+    "YR": 2012
+  },
+  {
+    "ANOM": -0.32,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 27.62,
+    "YR": 2012
+  },
+  {
+    "ANOM": 0.02,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.75,
+    "YR": 2012
+  },
+  {
+    "ANOM": 0.25,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 27.54,
+    "YR": 2012
+  },
+  {
+    "ANOM": 0.47,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 27.32,
+    "YR": 2012
+  },
+  {
+    "ANOM": 0.38,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 27.1,
+    "YR": 2012
+  },
+  {
+    "ANOM": 0.26,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 26.98,
+    "YR": 2012
+  },
+  {
+    "ANOM": 0.15,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 26.86,
+    "YR": 2012
+  },
+  {
+    "ANOM": -0.25,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 26.35,
+    "YR": 2012
+  },
+  {
+    "ANOM": -0.53,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 26.02,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.51,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 26.25,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.25,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 27.04,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.25,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 27.58,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.4,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 27.53,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.43,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.3,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.39,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 26.9,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.38,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 26.47,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.18,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 26.53,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.2,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 26.52,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.14,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 26.56,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.17,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 26.43,
+    "YR": 2013
+  },
+  {
+    "ANOM": -0.49,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 26.06,
+    "YR": 2014
+  },
+  {
+    "ANOM": -0.61,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 26.15,
+    "YR": 2014
+  },
+  {
+    "ANOM": -0.28,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 27.02,
+    "YR": 2014
+  },
+  {
+    "ANOM": 0.09,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 27.91,
+    "YR": 2014
+  },
+  {
+    "ANOM": 0.32,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 28.26,
+    "YR": 2014
+  },
+  {
+    "ANOM": 0.23,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.96,
+    "YR": 2014
+  },
+  {
+    "ANOM": -0.06,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 27.23,
+    "YR": 2014
+  },
+  {
+    "ANOM": -0.03,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 26.83,
+    "YR": 2014
+  },
+  {
+    "ANOM": 0.29,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 27.01,
+    "YR": 2014
+  },
+  {
+    "ANOM": 0.44,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 27.16,
+    "YR": 2014
+  },
+  {
+    "ANOM": 0.75,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 27.46,
+    "YR": 2014
+  },
+  {
+    "ANOM": 0.72,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 27.32,
+    "YR": 2014
+  },
+  {
+    "ANOM": 0.51,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 27.06,
+    "YR": 2015
+  },
+  {
+    "ANOM": 0.42,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 27.18,
+    "YR": 2015
+  },
+  {
+    "ANOM": 0.47,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 27.77,
+    "YR": 2015
+  },
+  {
+    "ANOM": 0.7,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 28.53,
+    "YR": 2015
+  },
+  {
+    "ANOM": 0.92,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 28.85,
+    "YR": 2015
+  },
+  {
+    "ANOM": 1.17,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 28.9,
+    "YR": 2015
+  },
+  {
+    "ANOM": 1.45,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 28.75,
+    "YR": 2015
+  },
+  {
+    "ANOM": 1.93,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 28.78,
+    "YR": 2015
+  },
+  {
+    "ANOM": 2.2,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 28.92,
+    "YR": 2015
+  },
+  {
+    "ANOM": 2.36,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 29.07,
+    "YR": 2015
+  },
+  {
+    "ANOM": 2.71,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 29.41,
+    "YR": 2015
+  },
+  {
+    "ANOM": 2.65,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 29.26,
+    "YR": 2015
+  },
+  {
+    "ANOM": 2.56,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 29.11,
+    "YR": 2016
+  },
+  {
+    "ANOM": 2.24,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 29.0,
+    "YR": 2016
+  },
+  {
+    "ANOM": 1.61,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 28.9,
+    "YR": 2016
+  },
+  {
+    "ANOM": 0.9,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 28.73,
+    "YR": 2016
+  },
+  {
+    "ANOM": 0.3,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 28.24,
+    "YR": 2016
+  },
+  {
+    "ANOM": -0.03,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.7,
+    "YR": 2016
+  },
+  {
+    "ANOM": -0.47,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 26.82,
+    "YR": 2016
+  },
+  {
+    "ANOM": -0.57,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 26.28,
+    "YR": 2016
+  },
+  {
+    "ANOM": -0.57,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 26.15,
+    "YR": 2016
+  },
+  {
+    "ANOM": -0.74,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 25.98,
+    "YR": 2016
+  },
+  {
+    "ANOM": -0.76,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 25.95,
+    "YR": 2016
+  },
+  {
+    "ANOM": -0.5,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 26.1,
+    "YR": 2016
+  },
+  {
+    "ANOM": -0.43,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 26.12,
+    "YR": 2017
+  },
+  {
+    "ANOM": -0.08,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 26.68,
+    "YR": 2017
+  },
+  {
+    "ANOM": 0.03,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 27.33,
+    "YR": 2017
+  },
+  {
+    "ANOM": 0.21,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 28.04,
+    "YR": 2017
+  },
+  {
+    "ANOM": 0.36,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 28.3,
+    "YR": 2017
+  },
+  {
+    "ANOM": 0.33,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 28.06,
+    "YR": 2017
+  },
+  {
+    "ANOM": 0.25,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 27.54,
+    "YR": 2017
+  },
+  {
+    "ANOM": -0.16,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 26.7,
+    "YR": 2017
+  },
+  {
+    "ANOM": -0.43,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 26.29,
+    "YR": 2017
+  },
+  {
+    "ANOM": -0.56,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 26.15,
+    "YR": 2017
+  },
+  {
+    "ANOM": -0.96,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 25.74,
+    "YR": 2017
+  },
+  {
+    "ANOM": -0.99,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 25.62,
+    "YR": 2017
+  },
+  {
+    "ANOM": -0.98,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 25.57,
+    "YR": 2018
+  },
+  {
+    "ANOM": -0.78,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 25.98,
+    "YR": 2018
+  },
+  {
+    "ANOM": -0.8,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 26.5,
+    "YR": 2018
+  },
+  {
+    "ANOM": -0.51,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 27.32,
+    "YR": 2018
+  },
+  {
+    "ANOM": -0.2,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 27.74,
+    "YR": 2018
+  },
+  {
+    "ANOM": 0.05,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.77,
+    "YR": 2018
+  },
+  {
+    "ANOM": 0.12,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 27.42,
+    "YR": 2018
+  },
+  {
+    "ANOM": 0.09,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 26.95,
+    "YR": 2018
+  },
+  {
+    "ANOM": 0.47,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 27.19,
+    "YR": 2018
+  },
+  {
+    "ANOM": 0.9,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 27.62,
+    "YR": 2018
+  },
+  {
+    "ANOM": 0.9,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 27.61,
+    "YR": 2018
+  },
+  {
+    "ANOM": 0.89,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 27.49,
+    "YR": 2018
+  },
+  {
+    "ANOM": 0.65,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 27.2,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.71,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 27.48,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.8,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 28.1,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.62,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 28.45,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.55,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 28.49,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.45,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 28.18,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.35,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 27.64,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.04,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 26.9,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.04,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 26.75,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.48,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 27.2,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.52,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 27.23,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.52,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 27.12,
+    "YR": 2019
+  },
+  {
+    "ANOM": 0.6,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 27.16,
+    "YR": 2020
+  },
+  {
+    "ANOM": 0.37,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 27.13,
+    "YR": 2020
+  },
+  {
+    "ANOM": 0.48,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 27.77,
+    "YR": 2020
+  },
+  {
+    "ANOM": 0.36,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 28.19,
+    "YR": 2020
+  },
+  {
+    "ANOM": -0.27,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 27.66,
+    "YR": 2020
+  },
+  {
+    "ANOM": -0.34,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.39,
+    "YR": 2020
+  },
+  {
+    "ANOM": -0.3,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 26.99,
+    "YR": 2020
+  },
+  {
+    "ANOM": -0.59,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 26.27,
+    "YR": 2020
+  },
+  {
+    "ANOM": -0.83,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 25.89,
+    "YR": 2020
+  },
+  {
+    "ANOM": -1.25,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 25.46,
+    "YR": 2020
+  },
+  {
+    "ANOM": -1.42,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 25.28,
+    "YR": 2020
+  },
+  {
+    "ANOM": -1.15,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 25.45,
+    "YR": 2020
+  },
+  {
+    "ANOM": -0.99,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 25.56,
+    "YR": 2021
+  },
+  {
+    "ANOM": -1.0,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 25.76,
+    "YR": 2021
+  },
+  {
+    "ANOM": -0.8,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 26.5,
+    "YR": 2021
+  },
+  {
+    "ANOM": -0.72,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 27.11,
+    "YR": 2021
+  },
+  {
+    "ANOM": -0.46,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 27.48,
+    "YR": 2021
+  },
+  {
+    "ANOM": -0.28,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 27.45,
+    "YR": 2021
+  },
+  {
+    "ANOM": -0.39,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 26.9,
+    "YR": 2021
+  },
+  {
+    "ANOM": -0.53,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 26.32,
+    "YR": 2021
+  },
+  {
+    "ANOM": -0.55,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 26.16,
+    "YR": 2021
+  },
+  {
+    "ANOM": -0.94,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 25.78,
+    "YR": 2021
+  },
+  {
+    "ANOM": -0.94,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 25.76,
+    "YR": 2021
+  },
+  {
+    "ANOM": -1.06,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 25.54,
+    "YR": 2021
+  },
+  {
+    "ANOM": -0.95,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 25.61,
+    "YR": 2022
+  },
+  {
+    "ANOM": -0.89,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 25.88,
+    "YR": 2022
+  },
+  {
+    "ANOM": -0.97,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 26.33,
+    "YR": 2022
+  },
+  {
+    "ANOM": -1.11,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 26.72,
+    "YR": 2022
+  },
+  {
+    "ANOM": -1.11,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 26.83,
+    "YR": 2022
+  },
+  {
+    "ANOM": -0.75,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 26.98,
+    "YR": 2022
+  },
+  {
+    "ANOM": -0.7,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 26.6,
+    "YR": 2022
+  },
+  {
+    "ANOM": -0.97,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 25.88,
+    "YR": 2022
+  },
+  {
+    "ANOM": -1.07,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 25.65,
+    "YR": 2022
+  },
+  {
+    "ANOM": -0.99,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 25.73,
+    "YR": 2022
+  },
+  {
+    "ANOM": -0.9,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 25.8,
+    "YR": 2022
+  },
+  {
+    "ANOM": -0.86,
+    "ClimAdjust": 26.6,
+    "MON": 12,
+    "TOTAL": 25.75,
+    "YR": 2022
+  },
+  {
+    "ANOM": -0.71,
+    "ClimAdjust": 26.55,
+    "MON": 1,
+    "TOTAL": 25.84,
+    "YR": 2023
+  },
+  {
+    "ANOM": -0.46,
+    "ClimAdjust": 26.76,
+    "MON": 2,
+    "TOTAL": 26.3,
+    "YR": 2023
+  },
+  {
+    "ANOM": -0.11,
+    "ClimAdjust": 27.29,
+    "MON": 3,
+    "TOTAL": 27.19,
+    "YR": 2023
+  },
+  {
+    "ANOM": 0.14,
+    "ClimAdjust": 27.83,
+    "MON": 4,
+    "TOTAL": 27.96,
+    "YR": 2023
+  },
+  {
+    "ANOM": 0.46,
+    "ClimAdjust": 27.94,
+    "MON": 5,
+    "TOTAL": 28.4,
+    "YR": 2023
+  },
+  {
+    "ANOM": 0.84,
+    "ClimAdjust": 27.73,
+    "MON": 6,
+    "TOTAL": 28.57,
+    "YR": 2023
+  },
+  {
+    "ANOM": 1.02,
+    "ClimAdjust": 27.29,
+    "MON": 7,
+    "TOTAL": 28.31,
+    "YR": 2023
+  },
+  {
+    "ANOM": 1.35,
+    "ClimAdjust": 26.86,
+    "MON": 8,
+    "TOTAL": 28.21,
+    "YR": 2023
+  },
+  {
+    "ANOM": 1.6,
+    "ClimAdjust": 26.72,
+    "MON": 9,
+    "TOTAL": 28.32,
+    "YR": 2023
+  },
+  {
+    "ANOM": 1.72,
+    "ClimAdjust": 26.72,
+    "MON": 10,
+    "TOTAL": 28.44,
+    "YR": 2023
+  },
+  {
+    "ANOM": 2.02,
+    "ClimAdjust": 26.7,
+    "MON": 11,
+    "TOTAL": 28.72,
+    "YR": 2023
+  }
+]

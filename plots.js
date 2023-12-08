@@ -7,7 +7,7 @@ sea_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources
 aqi_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/aqi.json'
 function init() {
 
-    d3.json(co2_url).then(function(data){
+    d3.json(sea_url).then(function(data){
         console.log(data);
     });
 };

@@ -1,9 +1,11 @@
 # Import the dependencies.
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template
+from flask_pymongo import PyMongo
 
 # Create an app, being sure to pass __name__
-app = Flask(__name__)
-
+app = Flask(__name__, static_url_path='/static')
+app.config["MONGO_URI"] = "mongodb://localhost:27017/pollution"
+mongo = PyMongo(app)
 #
 @app.route("/")
 def home():
@@ -18,5 +20,18 @@ def home():
 
     )
 
+@app.route('/api/data/seatemp', methods=['GET'])
+def get_data_seatemp():
+    data = list(mongo.db.sea_temp.find({}, {'_id': 0}))
+    return jsonify(data)
+
+@app.route('/api/data/co2', methods=['GET'])
+def get_data_co2():
+    data = list(mongo.db.co2_emission.find({}, {'_id': 0}))
+    return jsonify(data)
+
+@app.route('/route_1')
+def index():
+    return render_template('route1.html')
 if __name__ == "__main__":
     app.run(debug=True)

@@ -2,7 +2,6 @@ co2_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources
 sea_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/sea_temp.json'
 aqi_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/aqi.json'
 aqi_url_clean = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/cleaned_aqi.json'
-aqi_url_clean = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/cleaned_aqi.json'
 function init() {
 
     d3.json(co2_url).then(function(data){

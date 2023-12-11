@@ -22,7 +22,7 @@ def home():
 
     )
 
-@app.route("/air-quality")
+@app.route("/air-quality") #need to delete
 def air_quality():
     df = pd.read_csv("./Route2/Resources/who_ambient_air_quality.csv")
     columns_selection = ["country_name","pm25_concentration","year"]

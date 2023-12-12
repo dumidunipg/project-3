@@ -215,6 +215,7 @@ function gaugeChart(yearNum){
             domain: {x: [0,1], y: [0,1]},
             type: "indicator",
             mode: "gauge+number",
+            title:`Average CO2 of ${yearNum}`,
             gauge: {
                 axis: {range: [100,500]},
                 bar: {color: "black"},

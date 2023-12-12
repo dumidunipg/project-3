@@ -36,35 +36,5 @@ def get_data_aqi():
     data = list(mongo.db.aqi.find({}, {'_id': 0}))
     return jsonify(data)
 
-@app.route('/api/data/seatemp', methods=['GET'])
-def get_data_seatemp():
-    data = list(mongo.db.sea_temp.find({}, {'_id': 0}))
-    return jsonify(data)
-
-@app.route('/api/data/co2', methods=['GET'])
-def get_data_co2():
-    data = list(mongo.db.co2_emission.find({}, {'_id': 0}))
-    return jsonify(data)
-
-@app.route('/api/data/aqi', methods=['GET'])
-def get_data_aqi():
-    data = list(mongo.db.aqi.find({}, {'_id': 0}))
-    return jsonify(data)
-
-@app.route('/api/data/seatemp', methods=['GET'])
-def get_data_seatemp():
-    data = list(mongo.db.sea_temp.find({}, {'_id': 0}))
-    return jsonify(data)
-
-@app.route('/api/data/co2', methods=['GET'])
-def get_data_co2():
-    data = list(mongo.db.co2_emission.find({}, {'_id': 0}))
-    return jsonify(data)
-
-@app.route('/api/data/aqi', methods=['GET'])
-def get_data_aqi():
-    data = list(mongo.db.aqi.find({}, {'_id': 0}))
-    return jsonify(data)
-
 if __name__ == "__main__":
     app.run(debug=True)

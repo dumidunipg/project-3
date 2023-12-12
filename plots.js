@@ -59,6 +59,7 @@ function init() {
 
         gaugeChart(year[0])
         plotChart(year[0])
+        macroData(year[0])
         
     });
 

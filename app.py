@@ -24,7 +24,7 @@ def home():
 
 @app.route("/air-quality") #need to delete
 def air_quality():
-    df = pd.read_csv("./Route2/Resources/who_ambient_air_quality.csv")
+    df = pd.read_csv("./Resources/who_ambient_air_quality.csv")
     columns_selection = ["country_name","pm25_concentration","year"]
     clean_df = df[columns_selection].dropna(subset=["pm25_concentration"])
     gb = clean_df.groupby(["country_name","year"]).mean().reset_index()

@@ -28,7 +28,7 @@ function init() {
         });
 
         gaugeChart(year[0])
-        //plotChart(year[0])
+        plotChart(year[0])
         
     });
 
@@ -36,7 +36,7 @@ function init() {
     d3.json(sea_url).then(function(data){
         let years = data.map(entry => entry.YR);
         let months = data.map(entry => entry.MON);
-        //console.log(data);
+        console.log(data);
     });
 };
 
@@ -48,6 +48,35 @@ function plotChart(yearNum) {
         // filters to pull the data of that year, and works with dropdown menu
         let filter = data.filter(data => data.YR == yearNum);
         console.log(filter)
+        let trace1 = {
+            x: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+            y: filter.map(monthTotal => monthTotal.TOTAL),
+            text: filter.map(monthTotal => monthTotal.TOTAL),
+            textposition: 'auto',
+            hoverinfo: 'none',
+            marker: {
+                color: "rgba(14, 127, 0, .5)",
+                opacity: 0.8,
+                line: {
+                    color: "black",
+                    opacity: 0.7,
+                    width: 1.1
+                }
+            },
+            type: "bar"
+        };
+
+        let layout = {
+            title: "Sea Temperatures by Month",
+            xaxis: {
+                title: "Month",
+                tickangle: -45
+            },
+            yaxis: {
+                title: "Sea Surface Temperature (degC)"
+            }
+        }
+        Plotly.newPlot("plot", [trace1], layout);
     });
 };
 

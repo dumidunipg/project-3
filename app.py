@@ -34,6 +34,7 @@ def get_data_co2():
 @app.route('/api/data/aqi', methods=['GET'])
 def get_data_aqi():
     data = list(mongo.db.aqi.find({}, {'_id': 0}))
+    pass
     return jsonify(data)
 
 if __name__ == "__main__":

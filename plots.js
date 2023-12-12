@@ -29,6 +29,7 @@ function init() {
 
         gaugeChart(year[0])
         plotChart(year[0])
+        macroData(year[0])
         
     });
 
@@ -163,7 +164,7 @@ function plotChart(yearNum) {
         
         // filters to pull the data of that year, and works with dropdown menu
         let filter = data.filter(data => data.YR == yearNum);
-        console.log(filter)
+        console.log(yearNum)
         let trace1 = {
             x: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
             y: filter.map(monthTotal => monthTotal.TOTAL),
@@ -269,9 +270,20 @@ function gaugeChart(yearNum){
 
 )};
 
+function macroData(yearNum) {
+    d3.json(sea_url).then(function(data){
+        // filters to pull the data of that year, and works with dropdown menu
+        let filter = data.filter(data => data.YR == yearNum);
+        let averageTemperature = d3.mean(filter.map(monthTotal => monthTotal.TOTAL));
+        d3.select("#year-macroData").html(`Average Temperature: ${averageTemperature.toFixed(2)}`);
+        });
+
+};
+
 function optionChanged(value) { 
     console.log(value); 
     plotChart(value);
     gaugeChart(value);
+    macroData(value);
 };
 init();

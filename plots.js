@@ -6,11 +6,19 @@ function init() {
 
     d3.json(co2_url).then(function(data){
         // https://www.geeksforgeeks.org/d3-js-array-from-method/
-        const groupedData = d3.group(data, d => d.Yr);
-        const avgco2 = Array.from(groupedData, ([year, values]) => ({
-            year: year,
-            averageco2: d3.mean(values, d => d["CO2 [ppm]"]),
-          }));
+        // filtering out any unfilled data
+        const filteredData = data.filter(d => d["CO2 [ppm]"] !== -99.99);
+        //need to cite
+        const groupedData = d3.nest().key(d => d.Yr).entries(filteredData);
+
+        const avgco2 = groupedData.map(group => {
+            const yr = group.key;
+            const year = parseFloat(yr);
+            const averageco2 = d3.mean(group.values.map(d => d["CO2 [ppm]"]));
+            return { year, averageco2 };
+          });
+          
+        
         const year = avgco2.map(entry => entry.year);
 
         let dropdownMenu = d3.select("#selDataset");
@@ -20,6 +28,7 @@ function init() {
         });
 
         gaugeChart(year[0])
+        //plotChart(year[0])
         
     });
 
@@ -50,15 +59,22 @@ function gaugeChart(yearNum){
 
     // Use D3 to retrieve all of the data
     d3.json(co2_url).then((data) => {
+        const filteredData = data.filter(d => d["CO2 [ppm]"] !== -99.99);
+        //need to cite
+        const groupedData = d3.nest().key(d => d.Yr).entries(filteredData);
+        //console.log(groupedData);
 
-        const groupedData = d3.group(data, d => d.Yr);
-        const avgco2 = Array.from(groupedData, ([year, values]) => ({
-            year: year,
-            averageco2: d3.mean(values, d => d["CO2 [ppm]"]),
-          }));
-
+        const avgco2 = groupedData.map(group => {
+            const yr = group.key;
+            const year = parseFloat(yr);
+            //co2 = group.values.map(d => d["CO2 [ppm]"]);
+            const averageco2 = d3.mean(group.values.map(d => d["CO2 [ppm]"]));
+            return { year, averageco2 };
+          });
+        
         const numYear = parseFloat(yearNum);
-
+        //console.log(avgco2[0].year)
+        //need to cite
         const resultEntry = avgco2.findIndex(entry => entry.year === numYear)
             if (resultEntry !== -1) {
                 console.log(`Index of ${yearNum}: ${resultEntry}`);
@@ -68,7 +84,7 @@ function gaugeChart(yearNum){
             }
         
         let valueData = avgco2[resultEntry];
-        
+        //console.log(valueData)
         let co2summary = Object.values(valueData)[1];
         let co2Num = Number.parseFloat(co2summary).toFixed(2);
 

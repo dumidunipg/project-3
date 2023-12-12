@@ -36,5 +36,10 @@ def get_data_aqi():
     data = list(mongo.db.aqi.find({}, {'_id': 0}))
     return jsonify(data)
 
+@app.route('/api/data/aqi_country_coordinate', methods=['GET'])
+def get_data_aqi_country_coordinate():
+    data = list(mongo.db.aqi_country_coordinate.find({}, {'_id': 0}))
+    return jsonify(data)
+
 if __name__ == "__main__":
     app.run(debug=True)

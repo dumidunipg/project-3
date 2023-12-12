@@ -2,15 +2,18 @@ co2_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources
 sea_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/sea_temp.json'
 aqi_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/aqi.json'
 aqi_url_clean = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/cleaned_aqi.json'
+aqi_coordinate_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/aqi_country_coordinate.json'
+
 function init() {
 
     d3.json(co2_url).then(function(data){
         // https://www.geeksforgeeks.org/d3-js-array-from-method/
         // filtering out any unfilled data
         const filteredData = data.filter(d => d["CO2 [ppm]"] !== -99.99);
-        //need to cite
+        //https://stackoverflow.com/questions/64227680/how-to-replace-a-d3js-nest-function-with-group-and-rollup
+        // groups the data based on year
         const groupedData = d3.nest().key(d => d.Yr).entries(filteredData);
-
+        // finds the average co2 per year
         const avgco2 = groupedData.map(group => {
             const yr = group.key;
             const year = parseFloat(yr);
@@ -22,7 +25,7 @@ function init() {
         const year = avgco2.map(entry => entry.year);
 
         let dropdownMenu = d3.select("#selDataset");
-
+        // adding the year to the database
         year.forEach((yearNum) => {
             dropdownMenu.append("option").text(yearNum).property("value", yearNum);
         });
@@ -34,6 +37,7 @@ function init() {
     });
 
 
+<<<<<<< HEAD
     d3.json(co2_url).then(function(data){
         // https://www.geeksforgeeks.org/d3-js-array-from-method/
         // filtering out any unfilled data
@@ -64,6 +68,8 @@ function init() {
     });
 
 
+=======
+>>>>>>> a027b859b376a351a1e22110b8dbb51b7cfaad09
 //---------------Sea----------------
     d3.json(sea_url).then(function(data){
         let years = data.map(entry => entry.YR);
@@ -83,7 +89,7 @@ function init() {
     //list to store unique years
     let unique_year =[]
 
-   
+
     d3.json(aqi_url_clean).then(aqi_data => {
         aqi_data.forEach(pollutant_data => {
             if (!unique_year.includes(pollutant_data.year)) {
@@ -97,6 +103,7 @@ function init() {
 
     
     });
+
 
 };
 
@@ -221,7 +228,7 @@ function gaugeChart(yearNum){
         
         const numYear = parseFloat(yearNum);
         //console.log(avgco2[0].year)
-        //need to cite
+        //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex
         const resultEntry = avgco2.findIndex(entry => entry.year === numYear)
             if (resultEntry !== -1) {
                 console.log(`Index of ${yearNum}: ${resultEntry}`);
@@ -231,8 +238,8 @@ function gaugeChart(yearNum){
             }
         
         let valueData = avgco2[resultEntry];
-        //console.log(valueData)
         let co2summary = Object.values(valueData)[1];
+        //turn
         let co2Num = Number.parseFloat(co2summary).toFixed(2);
 
         // Set up the trace for the gauge chart
@@ -241,6 +248,7 @@ function gaugeChart(yearNum){
             domain: {x: [0,1], y: [0,1]},
             type: "indicator",
             mode: "gauge+number",
+            title:`Average CO2 [ppm] of ${yearNum}`,
             gauge: {
                 axis: {range: [100,500]},
                 bar: {color: "black"},

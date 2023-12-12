@@ -30,6 +30,7 @@ function init() {
 
         gaugeChart(year[0])
         plotChart(year[0])
+        macroData(year[0])
         
     });
 
@@ -48,21 +49,11 @@ function init() {
         console.log(aqi_data);
     })
 
-    //for dropdowns if needed
-    //let dropdownMenuPollutant = d3.select("#selPollutant");
-    //let dropdownMenuYear = d3.select("#selYear");
-
     const pollutant_options = ["NO2", "PM2.5", "PM10"];
 
     //list to store unique years
     let unique_year =[]
 
-    //for pollutant dropdown if needed
-    //pollutant_options.forEach(pollutant => {
-        //dropdownMenuPollutant.append("option")
-                             //.text(pollutant)
-                             //.attr("value", pollutant);
-    //});
 
     d3.json(aqi_url_clean).then(aqi_data => {
         aqi_data.forEach(pollutant_data => {
@@ -73,26 +64,9 @@ function init() {
 
         unique_year.sort();
 
-        //for year dropdown if needed
-        //unique_year.forEach(year => {
-            //dropdownMenuYear.append("option")
-                                //.text(year)
-                                //.attr("value", year);
-            
-    //});
-        
-        //visualization
-        //let selectedPollutant = dropdownMenuPollutant.property("value");
-        //let selectedYear = dropdownMenuYear.property("value");
         aqi_plot(aqi_data, unique_year);
 
-        //event listener
-        //dropdownMenuPollutant.on("change", function(){
-            //let pollution_selected = dropdownMenuPollutant.property("value");
-            //let year_selected = dropdownMenuYear.property("value");
-            //aqi_plot(aqi_data, unique_year);
-        //});
-
+    
     });
 
 
@@ -163,7 +137,7 @@ function plotChart(yearNum) {
         
         // filters to pull the data of that year, and works with dropdown menu
         let filter = data.filter(data => data.YR == yearNum);
-        console.log(filter)
+        console.log(yearNum)
         let trace1 = {
             x: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
             y: filter.map(monthTotal => monthTotal.TOTAL),
@@ -269,9 +243,20 @@ function gaugeChart(yearNum){
 
 )};
 
+function macroData(yearNum) {
+    d3.json(sea_url).then(function(data){
+        // filters to pull the data of that year, and works with dropdown menu
+        let filter = data.filter(data => data.YR == yearNum);
+        let averageTemperature = d3.mean(filter.map(monthTotal => monthTotal.TOTAL));
+        d3.select("#year-macroData").html(`Average Temperature: ${averageTemperature.toFixed(2)}`);
+        });
+
+};
+
 function optionChanged(value) { 
     console.log(value); 
     plotChart(value);
     gaugeChart(value);
+    macroData(value);
 };
 init();

@@ -1,7 +1,7 @@
 co2_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/co2.json'
 sea_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/sea_temp.json'
 aqi_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/aqi.json'
-
+aqi_url_clean = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/cleaned_aqi.json'
 function init() {
 
     d3.json(co2_url).then(function(data){
@@ -34,12 +34,128 @@ function init() {
     });
 
 
+    d3.json(co2_url).then(function(data){
+        // https://www.geeksforgeeks.org/d3-js-array-from-method/
+        // filtering out any unfilled data
+        const filteredData = data.filter(d => d["CO2 [ppm]"] !== -99.99);
+        //need to cite
+        const groupedData = d3.nest().key(d => d.Yr).entries(filteredData);
+
+        const avgco2 = groupedData.map(group => {
+            const yr = group.key;
+            const year = parseFloat(yr);
+            const averageco2 = d3.mean(group.values.map(d => d["CO2 [ppm]"]));
+            return { year, averageco2 };
+          });
+          
+        
+        const year = avgco2.map(entry => entry.year);
+
+        let dropdownMenu = d3.select("#selDataset");
+
+        year.forEach((yearNum) => {
+            dropdownMenu.append("option").text(yearNum).property("value", yearNum);
+        });
+
+        gaugeChart(year[0])
+        plotChart(year[0])
+        
+    });
+
+
+//---------------Sea----------------
     d3.json(sea_url).then(function(data){
         let years = data.map(entry => entry.YR);
         let months = data.map(entry => entry.MON);
         console.log(data);
     });
+
+
+ //---------------AQI---------------
+    //log the aqi data
+    d3.json(aqi_url_clean).then(function (aqi_data){
+        console.log(aqi_data);
+    })
+
+    const pollutant_options = ["NO2", "PM2.5", "PM10"];
+
+    //list to store unique years
+    let unique_year =[]
+
+   
+    d3.json(aqi_url_clean).then(aqi_data => {
+        aqi_data.forEach(pollutant_data => {
+            if (!unique_year.includes(pollutant_data.year)) {
+                unique_year.push(pollutant_data.year);
+            }
+        });
+
+        unique_year.sort();
+
+        aqi_plot(aqi_data, unique_year);
+
+    
+    });
+
 };
+
+function aqi_plot(data, unique_year) {
+
+    const no2_concentration = [];
+    const pm25_concentration = [];
+    const pm10_concentration = [];
+    
+    unique_year.forEach(year => {
+        const years = data.filter(aqi_data => aqi_data.year === year);
+    
+        // average concentrations
+        const no2_average = d3.mean(years, aqi_data => aqi_data.no2_concentration);
+        const pm25_average = d3.mean(years, aqi_data => aqi_data.pm25_concentration); 
+        const pm10_average = d3.mean(years, aqi_data => aqi_data.pm10_concentration);
+    
+        no2_concentration.push(no2_average);
+        pm25_concentration.push(pm25_average);
+        pm10_concentration.push(pm10_average); 
+
+    
+    });
+
+    console.log(no2_concentration, pm25_concentration, pm10_concentration);
+
+const chart = c3.generate({
+        bindto: '#chart',
+        data: {
+            x: 'Year',
+            columns: [
+                //convert years to string so x-axis ticks can be the year
+                ['Year', ...unique_year.map(String)],
+                ['NO2', ...no2_concentration],
+                ['PM2.5', ...pm25_concentration],
+                ['PM10', ...pm10_concentration],
+            ],
+            types: {
+                'NO2': 'line',
+                'PM2.5': 'line',
+                'PM10': 'line',
+            },
+        },
+        title: {
+            text: "Air Quality Concentrations"
+        },
+        axis: {
+            x: {
+                label: 'Year',
+                type: 'category',
+           },
+            y: {
+                label: 'Concentration',
+            },
+        },
+        color: {
+            pattern: ['purple', 'green', 'white'],
+        },
+    });
+}
 
 function plotChart(yearNum) {
     d3.json(sea_url).then(function(data){

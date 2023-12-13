@@ -1,8 +1,7 @@
 co2_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/co2.json'
 sea_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/sea_temp.json'
-aqi_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/aqi.json'
 aqi_url_clean = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/cleaned_aqi.json'
-aqi_coordinate_url = 'https://raw.githubusercontent.com/dumidunipg/project-3/main/Resources/aqi_country_coordinate.json'
+
 
 function init() {
 
@@ -37,13 +36,6 @@ function init() {
     });
 
 
-//---------------Sea----------------
-    d3.json(sea_url).then(function(data){
-        let years = data.map(entry => entry.YR);
-        let months = data.map(entry => entry.MON);
-        console.log(data);
-    });
-
 
  //---------------AQI---------------
     //log the aqi data
@@ -51,12 +43,13 @@ function init() {
         console.log(aqi_data);
     })
 
+    //options
     const pollutant_options = ["NO2", "PM2.5", "PM10"];
 
     //list to store unique years
     let unique_year =[]
 
-
+    //get unique years
     d3.json(aqi_url_clean).then(aqi_data => {
         aqi_data.forEach(pollutant_data => {
             if (!unique_year.includes(pollutant_data.year)) {
@@ -64,8 +57,10 @@ function init() {
             }
         });
 
+        //sort years in order
         unique_year.sort();
 
+        //call function
         aqi_plot(aqi_data, unique_year);
 
     
@@ -76,18 +71,21 @@ function init() {
 
 function aqi_plot(data, unique_year) {
 
+    //empty lists for concentrations of each pollutant
     const no2_concentration = [];
     const pm25_concentration = [];
     const pm10_concentration = [];
     
+    //filter data for each year
     unique_year.forEach(year => {
         const years = data.filter(aqi_data => aqi_data.year === year);
     
-        // average concentrations
+        // grab the average concentrations 
         const no2_average = d3.mean(years, aqi_data => aqi_data.no2_concentration);
         const pm25_average = d3.mean(years, aqi_data => aqi_data.pm25_concentration); 
         const pm10_average = d3.mean(years, aqi_data => aqi_data.pm10_concentration);
-    
+        
+        //put concentrations in list
         no2_concentration.push(no2_average);
         pm25_concentration.push(pm25_average);
         pm10_concentration.push(pm10_average); 
@@ -95,8 +93,10 @@ function aqi_plot(data, unique_year) {
     
     });
 
+    //log the data
     console.log(no2_concentration, pm25_concentration, pm10_concentration);
 
+//c3 graph
 const chart = c3.generate({
         bindto: '#chart',
         data: {
@@ -108,6 +108,7 @@ const chart = c3.generate({
                 ['PM2.5', ...pm25_concentration],
                 ['PM10', ...pm10_concentration],
             ],
+            //specify type for each concentration 
             types: {
                 'NO2': 'line',
                 'PM2.5': 'line',
@@ -134,12 +135,11 @@ const chart = c3.generate({
 
 function plotChart(yearNum) {
     d3.json(sea_url).then(function(data){
-        let years = data.map(entry => entry.YR);
-        let months = data.map(entry => entry.MON);
         
         // filters to pull the data of that year, and works with dropdown menu
         let filter = data.filter(data => data.YR == yearNum);
-        console.log(yearNum)
+        
+        //creating bar chart for sea temperature
         let trace1 = {
             x: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
             y: filter.map(monthTotal => monthTotal.TOTAL),
@@ -181,20 +181,18 @@ function gaugeChart(yearNum){
     // Use D3 to retrieve all of the data
     d3.json(co2_url).then((data) => {
         const filteredData = data.filter(d => d["CO2 [ppm]"] !== -99.99);
-        //need to cite
+        
         const groupedData = d3.nest().key(d => d.Yr).entries(filteredData);
-        //console.log(groupedData);
 
         const avgco2 = groupedData.map(group => {
             const yr = group.key;
             const year = parseFloat(yr);
-            //co2 = group.values.map(d => d["CO2 [ppm]"]);
             const averageco2 = d3.mean(group.values.map(d => d["CO2 [ppm]"]));
             return { year, averageco2 };
           });
         
         const numYear = parseFloat(yearNum);
-        //console.log(avgco2[0].year)
+
         //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex
         const resultEntry = avgco2.findIndex(entry => entry.year === numYear)
             if (resultEntry !== -1) {
@@ -204,9 +202,10 @@ function gaugeChart(yearNum){
                 console.log(`No data found for ${yearNum}`);
             }
         
+        //getting year and average CO2 values
         let valueData = avgco2[resultEntry];
         let co2summary = Object.values(valueData)[1];
-        //turn
+        //turn CO2 num to float with 2 decimal places
         let co2Num = Number.parseFloat(co2summary).toFixed(2);
 
         // Set up the trace for the gauge chart
@@ -246,6 +245,7 @@ function gaugeChart(yearNum){
 
 )};
 
+//displaying the average sea temperature for a given year
 function macroData(yearNum) {
     d3.json(sea_url).then(function(data){
         // filters to pull the data of that year, and works with dropdown menu
@@ -256,6 +256,7 @@ function macroData(yearNum) {
 
 };
 
+//option changed
 function optionChanged(value) { 
     console.log(value); 
     plotChart(value);

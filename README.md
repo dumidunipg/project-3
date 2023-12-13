@@ -14,7 +14,27 @@
 
 ## CO2 Concentration
 
-analysis here
+### What is CO2 ppm
+
+CO2 in ppm (parts per million) refers to the number of carbon dioxide molecules per million molecules of dry air (*).
+
+### The Dataset
+The annual CO2 [ppm] is calculated based on the monthly CO2 measurement taken in the Mauna Loa Observatory in Hawaii from March 1958 to September 2023 (**). In 1958, the first year that the Mauna Loa Observatory measured CO2, the annual average was 315 [ppm] of CO2. So far for 2023, the average Co2 measured was 421 [ppm] of Co2. 
+
+In the past 65 years, the average CO2 increased by 107 [ppm]. However, the increase in the average Co2 per year was not linear. In 2014, the average was 399 of Co2 [ppm], which means that it took 9 years for the annual average to increase by 22 [ppm] of Co2. In comparison, it took 21 years from 1958 to 1979 for an annual average to increase by 22 [ppm] of Co2.
+
+### Why this matters?
+CO2 is one of the major greenhouse gases, gases that absorb and reflect heat in the atmosphere. As the amount of CO2 in the atmosphere increases, more heat is stored in the atmosphere, and more heat is reflected onto the Earth's surface. "According to observations by the NOAA Global Monitoring Lab, in 2021, carbon dioxide alone was responsible for about two-thirds of the total heating influence of all human-produced greenhouse gases."(***).
+
+Data Citation: 
+
+\* [NASA: Carbon Dioxide](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
+
+** [Scripps CO2 Program: Primary Mauna Loa CO2 Record ](https://scrippsco2.ucsd.edu/data/atmospheric_co2/primary_mlo_co2_record.html)
+
+C. D. Keeling, S. C. Piper, R. B. Bacastow, M. Wahlen, T. P. Whorf, M. Heimann, and H. A. Meijer, Exchanges of atmospheric CO2 and 13CO2 with the terrestrial biosphere and oceans from 1978 to 2000. I. Global aspects, SIO Reference Series, No. 01-06, Scripps Institution of Oceanography, San Diego, 88 pages, 2001.
+
+*** [Climate Change: Atmospheric Carbon Dioxide](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)
 
 ## Air Quality Index
 

@@ -26,7 +26,7 @@ analysis here
 
 #### The Dataset
 - This data comes from WHO (World Health Organization) and involves many countries. The focus of this dataset were the concentrations of PM2.5, PM10, and NO2.
-- Some limitations that were encountered was that there were many N/A values and c3 json is not able to handle undefined values when pllotting the data. Therefore, the undefined values were converted to 0s which has impacted the averages of the data.
+- Some limitations that were encountered was that there were many N/A values and c3 json is not able to handle undefined values when plotting the data. Therefore, the undefined values were converted to 0s which has impacted the averages of the data.
 - However, from the data, we can see a general trend downward of all three pollutants
 - The highest concentration of pollutants are from PM10 particles. Once we remove that dataset, we are able to see that the data for PM2.5 and NO2 starts around 2008.
 - There is a dramatic decrease in PM2.5 from 2008 to 2010 from which point there is a steady rise and then a dip.
@@ -38,6 +38,8 @@ analysis here
 - An air purifier with a Hepa filter may also help reduce some of these harmful particles. 
 
 ### Resources:
-- https://www.nytimes.com/interactive/2019/10/24/climate/air-pollution-increase.html
-- https://ww2.arb.ca.gov/resources/inhalable-particulate-matter-and-health#:~:text=Particles%20are%20defined%20by%20their,5).
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9223652/#:~:text=Primary%20PM2.5%20particles%20which,cigarette%20smoke%2C%20and%20biomass%20burning.
+- [NY Times: Air-Pollution Increase](https://www.nytimes.com/interactive/2019/10/24/climate/air-pollution-increase.html)
+- [California Air Resources Board: Inhalable Particulate Matter and Health (PM2.5 and PM10)](https://ww2.arb.ca.gov/resources/inhalable-particulate-matter-and-health#:~:text=Particles%20are%20defined%20by%20their,5.) 
+- [NCBI: Recent Insights into Particulate Matter (PM2.5)-Mediated Toxicity in Humans: An Overview](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9223652/#:~:text=Primary%20PM2.5%20particles%20which,cigarette%20smoke%2C%20and%20biomass%20burning.)
+- [WHO: Ambient Air Pollution](https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health)
+- [WHO: Ambient Air Quality Database, 2022](https://www.who.int/publications/i/item/9789240047693)

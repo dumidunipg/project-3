@@ -37,7 +37,6 @@ function init() {
     });
 
 
-<<<<<<< HEAD
     d3.json(co2_url).then(function(data){
         // https://www.geeksforgeeks.org/d3-js-array-from-method/
         // filtering out any unfilled data
@@ -68,8 +67,6 @@ function init() {
     });
 
 
-=======
->>>>>>> a027b859b376a351a1e22110b8dbb51b7cfaad09
 //---------------Sea----------------
     d3.json(sea_url).then(function(data){
         let years = data.map(entry => entry.YR);

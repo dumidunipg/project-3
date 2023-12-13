@@ -37,6 +37,36 @@ function init() {
     });
 
 
+    d3.json(co2_url).then(function(data){
+        // https://www.geeksforgeeks.org/d3-js-array-from-method/
+        // filtering out any unfilled data
+        const filteredData = data.filter(d => d["CO2 [ppm]"] !== -99.99);
+        //need to cite
+        const groupedData = d3.nest().key(d => d.Yr).entries(filteredData);
+
+        const avgco2 = groupedData.map(group => {
+            const yr = group.key;
+            const year = parseFloat(yr);
+            const averageco2 = d3.mean(group.values.map(d => d["CO2 [ppm]"]));
+            return { year, averageco2 };
+          });
+          
+        
+        const year = avgco2.map(entry => entry.year);
+
+        let dropdownMenu = d3.select("#selDataset");
+
+        year.forEach((yearNum) => {
+            dropdownMenu.append("option").text(yearNum).property("value", yearNum);
+        });
+
+        gaugeChart(year[0])
+        plotChart(year[0])
+        macroData(year[0])
+        
+    });
+
+
 //---------------Sea----------------
     d3.json(sea_url).then(function(data){
         let years = data.map(entry => entry.YR);

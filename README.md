@@ -8,8 +8,8 @@
 
 ### References
 
-*[United Nations: What Is Climate Change?](https://www.un.org/en/climatechange/what-is-climate-change)
-**[Sustainable Development Goal 13](https://www.un.org/sustainabledevelopment/climate-action/)
+*[United Nations: What Is Climate Change?](https://www.un.org/en/climatechange/what-is-climate-change)  
+**[Sustainable Development Goal 13](https://www.un.org/sustainabledevelopment/climate-action/)  
 *^[Biography: Greta Thunberg](https://www.britannica.com/biography/Greta-Thunberg)
 
 ## CO2 Concentration

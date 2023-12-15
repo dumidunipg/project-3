@@ -6,7 +6,7 @@ write here
 
 ## Instructions on Navigating the Dashboard
 
-write here
+There are three visualizations to interact with the Emissions Dashboard. The first visualization is the Air Quality Concentrations graph. To interact with this graph, move your mouse over the data to view the numerical data for the NO2, PM2.5, and PM10. To view only one or two sets of data on the Air Quality Concentration, click on the name of the dataset on the x-axis label. The default selection is to show all three sets of data. If you wish to view just the NO2 data, click on the PM2.5 and PM10 to gray it out. The second and third visualizations are the sea temperature by month bar graph and the average annual CO2 gauge chart. To interact with these graphs, there is a dropdown menu to change the year. Under the dropdown, there is a sea temperature info section that shows the average sea temperature.
 
 ## Ethical Considerations
 Ethics were taken into consideration for this project. The C3 code was ethically sourced from the creators. All data from APIs were referenced and given their rightful credit. Our intention for this project is to use for academic purposes and there was no malicious intent to use the data unethically. There was no web-scraping involved in the making of this project. 
@@ -76,3 +76,13 @@ C. D. Keeling, S. C. Piper, R. B. Bacastow, M. Wahlen, T. P. Whorf, M. Heimann, 
 - [NCBI: Recent Insights into Particulate Matter (PM2.5)-Mediated Toxicity in Humans: An Overview](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9223652/#:~:text=Primary%20PM2.5%20particles%20which,cigarette%20smoke%2C%20and%20biomass%20burning.)
 - [WHO: Ambient Air Pollution](https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health)
 - [WHO: Ambient Air Quality Database, 2022](https://www.who.int/publications/i/item/9789240047693)
+
+## Citations:
+Code used in app.py:
+- https://flask-pymongo.readthedocs.io/en/latest/
+
+Code used in plots.js:
+- https://www.geeksforgeeks.org/d3-js-array-from-method/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex
+- https://stackoverflow.com/questions/64227680/how-to-replace-a-d3js-nest-function-with-group-and-rollup
+- https://plotly.com/javascript/gauge-charts/

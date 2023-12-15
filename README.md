@@ -1,6 +1,19 @@
 # project-3
 
+## Overview and Purpose
+
+write here
+
+## Instructions on Navigating the Dashboard
+
+write here
+
+## Ethical Considerations
+
+write here
+
 # Emissions Dashboard
+
 
 ## Sea Temperature
 

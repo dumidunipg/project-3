@@ -9,8 +9,8 @@ write here
 write here
 
 ## Ethical Considerations
+Ethical considerations were followed during this project. The C3 code was ethically sourced from the creators. All data from APIs were referenced and given their rightful credit. Our intention for this project is to use for academic purposes and there was no malicious intent to use the data unethically. There was no web-scraping involved in the making of this project. 
 
-write here
 
 # Emissions Dashboard
 
@@ -64,7 +64,7 @@ C. D. Keeling, S. C. Piper, R. B. Bacastow, M. Wahlen, T. P. Whorf, M. Heimann, 
 - The highest concentration of pollutants are from PM10 particles. Once we remove that dataset, we are able to see that the data for PM2.5 and NO2 starts around 2008.
 - There is a dramatic decrease in PM2.5 from 2008 to 2010 from which point there is a steady rise and then a dip.
 - 2022 data may not all be present in the dataset which has resulted in the dip for 2022
-- There is an increase in PM2.5 in 2018. While this data is for many countries, if we consider events in 2018 that may have contributed to the rise in PM2.5 particles for the US at least, according to sources there was a decrease in the enformcement of the Clean Air Act which may have contributed to the rise in pollution. 
+- There is an increase in PM2.5 in 2018. While this data is for many countries, if we consider events in 2018 that may have contributed to the rise in PM2.5 particles for the US at least, according to sources there was a decrease in the enforcement of the Clean Air Act which may have contributed to the rise in pollution. 
 
 #### How to get rid of these toxins in your everyday life?
 - Eat more foods in fiber which help your body to get rid of these toxins

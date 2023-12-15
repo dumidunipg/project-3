@@ -9,7 +9,7 @@ write here
 write here
 
 ## Ethical Considerations
-Ethical considerations were followed during this project. The C3 code was ethically sourced from the creators. All data from APIs were referenced and given their rightful credit. Our intention for this project is to use for academic purposes and there was no malicious intent to use the data unethically. There was no web-scraping involved in the making of this project. 
+Ethics were taken into consideration for this project. The C3 code was ethically sourced from the creators. All data from APIs were referenced and given their rightful credit. Our intention for this project is to use for academic purposes and there was no malicious intent to use the data unethically. There was no web-scraping involved in the making of this project. 
 
 
 # Emissions Dashboard

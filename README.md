@@ -2,7 +2,7 @@
 
 ## Overview and Purpose
 
-write here
+Project 3 was dedicated to presenting the trends of harmful emissions, air quality, and sea temperature for those interested in the topic of climate change or the environment. This project results in a clear and interactive dashboard that can provide various insights into the historical changes that hint at the alarming development of climate change in the recent decades. Carbon dioxide and nitrogen dioxide concentrations are closely examined, as they are released primarily from burning fossil fuels and ultimately, human activity and development. The sea surface temperature only captures the tip of the iceberg, but its purpose is to provide a glimpse of the intensified clash between our environment and greenhouse gases. Through all these trends, factors, and interactive visualizations, project 3 can allow for the curious to dig a little deeper about climate change and other environmental challenges that impact the world we live in. 
 
 ## Instructions on Navigating the Dashboard
 

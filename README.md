@@ -6,11 +6,11 @@ Project 3 was dedicated to presenting the trends of harmful emissions, air quali
 
 ## Instructions on Navigating the Dashboard
 
-write here
+There are three visualizations to interact with the Emissions Dashboard. The first visualization is the Air Quality Concentrations graph. To interact with this graph, move your mouse over the data to view the numerical data for the NO2, PM2.5, and PM10. To view only one or two sets of data on the Air Quality Concentration, click on the name of the dataset on the x-axis label. The default selection is to show all three sets of data. If you wish to view just the NO2 data, click on the PM2.5 and PM10 to gray it out. The second and third visualizations are the sea temperature by month bar graph and the average annual CO2 gauge chart. To interact with these graphs, there is a dropdown menu to change the year. Under the dropdown, there is a sea temperature info section that shows the average sea temperature.
 
 ## Ethical Considerations
+Ethics were taken into consideration for this project. The C3 code was ethically sourced from the creators. All data from APIs were referenced and given their rightful credit. Our intention for this project is to use for academic purposes and there was no malicious intent to use the data unethically. There was no web-scraping involved in the making of this project. 
 
-write here
 
 # Emissions Dashboard
 
@@ -64,7 +64,7 @@ C. D. Keeling, S. C. Piper, R. B. Bacastow, M. Wahlen, T. P. Whorf, M. Heimann, 
 - The highest concentration of pollutants are from PM10 particles. Once we remove that dataset, we are able to see that the data for PM2.5 and NO2 starts around 2008.
 - There is a dramatic decrease in PM2.5 from 2008 to 2010 from which point there is a steady rise and then a dip.
 - 2022 data may not all be present in the dataset which has resulted in the dip for 2022
-- There is an increase in PM2.5 in 2018. While this data is for many countries, if we consider events in 2018 that may have contributed to the rise in PM2.5 particles for the US at least, according to sources there was a decrease in the enformcement of the Clean Air Act which may have contributed to the rise in pollution. 
+- There is an increase in PM2.5 in 2018. While this data is for many countries, if we consider events in 2018 that may have contributed to the rise in PM2.5 particles for the US at least, according to sources there was a decrease in the enforcement of the Clean Air Act which may have contributed to the rise in pollution. 
 
 #### How to get rid of these toxins in your everyday life?
 - Eat more foods in fiber which help your body to get rid of these toxins
@@ -76,3 +76,13 @@ C. D. Keeling, S. C. Piper, R. B. Bacastow, M. Wahlen, T. P. Whorf, M. Heimann, 
 - [NCBI: Recent Insights into Particulate Matter (PM2.5)-Mediated Toxicity in Humans: An Overview](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9223652/#:~:text=Primary%20PM2.5%20particles%20which,cigarette%20smoke%2C%20and%20biomass%20burning.)
 - [WHO: Ambient Air Pollution](https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health)
 - [WHO: Ambient Air Quality Database, 2022](https://www.who.int/publications/i/item/9789240047693)
+
+## Citations:
+Code used in app.py:
+- https://flask-pymongo.readthedocs.io/en/latest/
+
+Code used in plots.js:
+- https://www.geeksforgeeks.org/d3-js-array-from-method/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex
+- https://stackoverflow.com/questions/64227680/how-to-replace-a-d3js-nest-function-with-group-and-rollup
+- https://plotly.com/javascript/gauge-charts/
